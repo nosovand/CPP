@@ -1,0 +1,4658 @@
+Bezrouskova;3;f;0;22593
+Bezrouskova;3;f;1;24129
+Bezrouskova;3;f;2;25765
+Bezrouskova;3;f;3;27146
+Bezrouskova;3;f;4;28586
+Bezrouskova;3;f;5;30231
+Bezrouskova;3;f;6;31676
+Bezrouskova;3;f;7;33126
+Bezrouskova;3;f;8;34653
+Bezrouskova;3;f;9;36107
+Bezrouskova;3;f;10;37712
+Bezrouskova;3;f;11;39142
+Bezrouskova;3;f;12;40740
+Bezrouskova;3;f;13;42075
+Bezrouskova;3;f;14;43691
+Bezrouskova;3;f;15;45135
+Bezrouskova;3;f;16;46703
+Bezrouskova;3;f;17;48232
+Bezrouskova;3;f;18;49593
+Bezrouskova;3;f;19;51208
+Bezrouskova;3;f;20;52575
+Bezrouskova;3;f;21;54166
+Bezrouskova;3;f;22;55775
+Bezrouskova;3;f;23;57075
+Bezrouskova;3;f;24;58662
+Bezrouskova;3;f;25;60244
+Bezrouskova;3;f;26;61688
+Bezrouskova;3;f;27;63095
+Bezrouskova;3;f;28;64658
+Bezrouskova;3;f;29;66131
+Bezrouskova;3;f;30;67652
+Bezrouskova;3;f;31;69233
+Bezrouskova;3;f;32;70695
+Bezrouskova;3;f;33;72131
+Bezrouskova;3;f;34;73575
+Bezrouskova;3;f;35;75080
+Bezrouskova;3;f;36;76682
+Bezrouskova;3;f;37;78117
+Bezrouskova;3;f;38;79741
+Bezrouskova;3;b;0;22526
+Bezrouskova;3;b;1;24044
+Bezrouskova;3;b;2;25536
+Bezrouskova;3;b;3;26994
+Bezrouskova;3;b;4;28470
+Bezrouskova;3;b;5;29988
+Bezrouskova;3;b;6;31501
+Bezrouskova;3;b;7;33041
+Bezrouskova;3;b;8;34476
+Bezrouskova;3;b;9;35997
+Bezrouskova;3;b;10;37526
+Bezrouskova;3;b;11;38976
+Bezrouskova;3;b;12;40546
+Bezrouskova;3;b;13;42014
+Bezrouskova;3;b;14;43477
+Bezrouskova;3;b;15;45016
+Bezrouskova;3;b;16;46552
+Bezrouskova;3;b;17;47976
+Bezrouskova;3;b;18;49470
+Bezrouskova;3;b;19;51030
+Bezrouskova;3;b;20;52535
+Bezrouskova;3;b;21;54020
+Bezrouskova;3;b;22;55486
+Bezrouskova;3;b;23;57007
+Bezrouskova;3;b;24;58470
+Bezrouskova;3;b;25;59997
+Bezrouskova;3;b;26;61565
+Bezrouskova;3;b;27;62973
+Bezrouskova;3;b;28;64504
+Bezrouskova;3;b;29;65992
+Bezrouskova;3;b;30;67518
+Bezrouskova;3;b;31;68989
+Bezrouskova;3;b;32;70497
+Bezrouskova;3;b;33;71997
+Bezrouskova;3;b;34;73505
+Bezrouskova;3;b;35;75018
+Bezrouskova;3;b;36;76513
+Bezrouskova;3;b;37;77985
+Bezrouskova;3;b;38;79513
+Cesko-cinskeho pratelstvi;3;f;0;22462
+Cesko-cinskeho pratelstvi;3;f;1;24011
+Cesko-cinskeho pratelstvi;3;f;2;25594
+Cesko-cinskeho pratelstvi;3;f;3;26992
+Cesko-cinskeho pratelstvi;3;f;4;28440
+Cesko-cinskeho pratelstvi;3;f;5;30075
+Cesko-cinskeho pratelstvi;3;f;6;31535
+Cesko-cinskeho pratelstvi;3;f;7;32967
+Cesko-cinskeho pratelstvi;3;f;8;34480
+Cesko-cinskeho pratelstvi;3;f;9;35972
+Cesko-cinskeho pratelstvi;3;f;10;37556
+Cesko-cinskeho pratelstvi;3;f;11;38989
+Cesko-cinskeho pratelstvi;3;f;12;40570
+Cesko-cinskeho pratelstvi;3;f;13;41940
+Cesko-cinskeho pratelstvi;3;f;14;43541
+Cesko-cinskeho pratelstvi;3;f;15;44964
+Cesko-cinskeho pratelstvi;3;f;16;46546
+Cesko-cinskeho pratelstvi;3;f;17;48074
+Cesko-cinskeho pratelstvi;3;f;18;49460
+Cesko-cinskeho pratelstvi;3;f;19;51022
+Cesko-cinskeho pratelstvi;3;f;20;52445
+Cesko-cinskeho pratelstvi;3;f;21;54002
+Cesko-cinskeho pratelstvi;3;f;22;55593
+Cesko-cinskeho pratelstvi;3;f;23;56940
+Cesko-cinskeho pratelstvi;3;f;24;58517
+Cesko-cinskeho pratelstvi;3;f;25;60077
+Cesko-cinskeho pratelstvi;3;f;26;61528
+Cesko-cinskeho pratelstvi;3;f;27;62950
+Cesko-cinskeho pratelstvi;3;f;28;64518
+Cesko-cinskeho pratelstvi;3;f;29;65966
+Cesko-cinskeho pratelstvi;3;f;30;67495
+Cesko-cinskeho pratelstvi;3;f;31;69083
+Cesko-cinskeho pratelstvi;3;f;32;70531
+Cesko-cinskeho pratelstvi;3;f;33;71962
+Cesko-cinskeho pratelstvi;3;f;34;73440
+Cesko-cinskeho pratelstvi;3;f;35;74958
+Cesko-cinskeho pratelstvi;3;f;36;76549
+Cesko-cinskeho pratelstvi;3;f;37;77976
+Cesko-cinskeho pratelstvi;3;f;38;79578
+Cesko-cinskeho pratelstvi;3;b;0;22674
+Cesko-cinskeho pratelstvi;3;b;1;24207
+Cesko-cinskeho pratelstvi;3;b;2;25684
+Cesko-cinskeho pratelstvi;3;b;3;27136
+Cesko-cinskeho pratelstvi;3;b;4;28605
+Cesko-cinskeho pratelstvi;3;b;5;30172
+Cesko-cinskeho pratelstvi;3;b;6;31659
+Cesko-cinskeho pratelstvi;3;b;7;33223
+Cesko-cinskeho pratelstvi;3;b;8;34605
+Cesko-cinskeho pratelstvi;3;b;9;36150
+Cesko-cinskeho pratelstvi;3;b;10;37696
+Cesko-cinskeho pratelstvi;3;b;11;39147
+Cesko-cinskeho pratelstvi;3;b;12;40719
+Cesko-cinskeho pratelstvi;3;b;13;42150
+Cesko-cinskeho pratelstvi;3;b;14;43605
+Cesko-cinskeho pratelstvi;3;b;15;45149
+Cesko-cinskeho pratelstvi;3;b;16;46700
+Cesko-cinskeho pratelstvi;3;b;17;48145
+Cesko-cinskeho pratelstvi;3;b;18;49609
+Cesko-cinskeho pratelstvi;3;b;19;51165
+Cesko-cinskeho pratelstvi;3;b;20;52692
+Cesko-cinskeho pratelstvi;3;b;21;54184
+Cesko-cinskeho pratelstvi;3;b;22;55628
+Cesko-cinskeho pratelstvi;3;b;23;57180
+Cesko-cinskeho pratelstvi;3;b;24;58618
+Cesko-cinskeho pratelstvi;3;b;25;60127
+Cesko-cinskeho pratelstvi;3;b;26;61758
+Cesko-cinskeho pratelstvi;3;b;27;63116
+Cesko-cinskeho pratelstvi;3;b;28;64641
+Cesko-cinskeho pratelstvi;3;b;29;66158
+Cesko-cinskeho pratelstvi;3;b;30;67671
+Cesko-cinskeho pratelstvi;3;b;31;69143
+Cesko-cinskeho pratelstvi;3;b;32;70625
+Cesko-cinskeho pratelstvi;3;b;33;72186
+Cesko-cinskeho pratelstvi;3;b;34;73673
+Cesko-cinskeho pratelstvi;3;b;35;75174
+Cesko-cinskeho pratelstvi;3;b;36;76677
+Cesko-cinskeho pratelstvi;3;b;37;78129
+Cesko-cinskeho pratelstvi;3;b;38;79663
+Dekanat;0;f;0;15903
+Dekanat;0;f;1;17721
+Dekanat;0;f;2;19692
+Dekanat;0;f;3;21551
+Dekanat;0;f;4;23109
+Dekanat;0;f;5;24411
+Dekanat;0;f;6;24905
+Dekanat;0;f;7;25861
+Dekanat;0;f;8;26860
+Dekanat;0;f;9;27830
+Dekanat;0;f;10;28864
+Dekanat;0;f;11;29406
+Dekanat;0;f;12;30690
+Dekanat;0;f;13;31457
+Dekanat;0;f;14;32357
+Dekanat;0;f;15;33419
+Dekanat;0;f;16;34606
+Dekanat;0;f;17;35280
+Dekanat;0;f;18;35793
+Dekanat;0;f;19;36721
+Dekanat;0;f;20;37621
+Dekanat;0;f;21;39357
+Dekanat;0;f;22;41201
+Dekanat;0;f;23;42890
+Dekanat;0;f;24;44749
+Dekanat;0;f;25;46490
+Dekanat;0;f;26;48663
+Dekanat;0;f;27;50108
+Dekanat;0;f;28;52323
+Dekanat;0;f;29;53757
+Dekanat;0;f;30;55622
+Dekanat;0;f;31;56510
+Dekanat;0;f;32;57486
+Dekanat;0;f;33;58296
+Dekanat;0;f;34;59342
+Dekanat;0;f;35;59990
+Dekanat;0;f;36;61112
+Dekanat;0;f;37;62141
+Dekanat;0;f;38;63511
+Dekanat;0;f;39;64408
+Dekanat;0;f;40;64888
+Dekanat;0;f;41;65499
+Dekanat;0;f;42;66449
+Dekanat;0;f;43;67190
+Dekanat;0;f;44;68090
+Dekanat;0;f;45;69153
+Dekanat;0;f;46;69960
+Dekanat;0;f;47;71720
+Dekanat;0;f;48;73688
+Dekanat;0;f;49;75637
+Dekanat;0;f;50;77584
+Dekanat;0;f;51;78890
+Dekanat;0;f;52;80690
+Dekanat;0;f;53;82501
+Dekanat;0;f;54;84323
+Dekanat;0;b;0;14930
+Dekanat;0;b;1;16730
+Dekanat;0;b;2;18530
+Dekanat;0;b;3;20347
+Dekanat;0;b;4;22130
+Dekanat;0;b;5;23030
+Dekanat;0;b;6;23930
+Dekanat;0;b;7;24834
+Dekanat;0;b;8;25730
+Dekanat;0;b;9;26649
+Dekanat;0;b;10;27585
+Dekanat;0;b;11;28482
+Dekanat;0;b;12;29347
+Dekanat;0;b;13;30230
+Dekanat;0;b;14;31151
+Dekanat;0;b;15;32030
+Dekanat;0;b;16;32930
+Dekanat;0;b;17;33830
+Dekanat;0;b;18;34730
+Dekanat;0;b;19;35630
+Dekanat;0;b;20;36577
+Dekanat;0;b;21;38385
+Dekanat;0;b;22;40130
+Dekanat;0;b;23;41930
+Dekanat;0;b;24;43745
+Dekanat;0;b;25;45535
+Dekanat;0;b;26;47330
+Dekanat;0;b;27;49130
+Dekanat;0;b;28;50930
+Dekanat;0;b;29;52730
+Dekanat;0;b;30;54539
+Dekanat;0;b;31;55443
+Dekanat;0;b;32;56384
+Dekanat;0;b;33;57230
+Dekanat;0;b;34;58229
+Dekanat;0;b;35;59043
+Dekanat;0;b;36;59931
+Dekanat;0;b;37;60830
+Dekanat;0;b;38;61730
+Dekanat;0;b;39;62630
+Dekanat;0;b;40;63530
+Dekanat;0;b;41;64431
+Dekanat;0;b;42;65363
+Dekanat;0;b;43;66310
+Dekanat;0;b;44;67156
+Dekanat;0;b;45;68030
+Dekanat;0;b;46;68930
+Dekanat;0;b;47;70735
+Dekanat;0;b;48;72530
+Dekanat;0;b;49;74330
+Dekanat;0;b;50;76130
+Dekanat;0;b;51;77946
+Dekanat;0;b;52;79738
+Dekanat;0;b;53;81546
+Dekanat;0;b;54;83370
+Desinfekcni;1;f;0;14400
+Desinfekcni;1;f;1;15905
+Desinfekcni;1;f;2;17400
+Desinfekcni;1;f;3;18914
+Desinfekcni;1;f;4;20457
+Desinfekcni;1;f;5;21907
+Desinfekcni;1;f;6;23131
+Desinfekcni;1;f;7;24330
+Desinfekcni;1;f;8;25536
+Desinfekcni;1;f;9;26814
+Desinfekcni;1;f;10;27993
+Desinfekcni;1;f;11;29183
+Desinfekcni;1;f;12;30405
+Desinfekcni;1;f;13;31566
+Desinfekcni;1;f;14;32737
+Desinfekcni;1;f;15;34005
+Desinfekcni;1;f;16;35161
+Desinfekcni;1;f;17;36318
+Desinfekcni;1;f;18;37559
+Desinfekcni;1;f;19;38712
+Desinfekcni;1;f;20;40235
+Desinfekcni;1;f;21;41705
+Desinfekcni;1;f;22;43208
+Desinfekcni;1;f;23;44700
+Desinfekcni;1;f;24;46211
+Desinfekcni;1;f;25;47719
+Desinfekcni;1;f;26;49227
+Desinfekcni;1;f;27;50711
+Desinfekcni;1;f;28;52234
+Desinfekcni;1;f;29;53772
+Desinfekcni;1;f;30;54926
+Desinfekcni;1;f;31;56100
+Desinfekcni;1;f;32;57311
+Desinfekcni;1;f;33;58558
+Desinfekcni;1;f;34;59704
+Desinfekcni;1;f;35;60900
+Desinfekcni;1;f;36;62116
+Desinfekcni;1;f;37;63322
+Desinfekcni;1;f;38;64512
+Desinfekcni;1;f;39;65711
+Desinfekcni;1;f;40;66922
+Desinfekcni;1;f;41;68108
+Desinfekcni;1;f;42;69306
+Desinfekcni;1;f;43;70500
+Desinfekcni;1;f;44;72986
+Desinfekcni;1;f;45;75346
+Desinfekcni;1;f;46;77700
+Desinfekcni;1;f;47;80112
+Desinfekcni;1;b;0;16778
+Desinfekcni;1;b;1;18156
+Desinfekcni;1;b;2;20088
+Desinfekcni;1;b;3;21178
+Desinfekcni;1;b;4;22788
+Desinfekcni;1;b;5;24166
+Desinfekcni;1;b;6;25415
+Desinfekcni;1;b;7;26716
+Desinfekcni;1;b;8;27656
+Desinfekcni;1;b;9;29804
+Desinfekcni;1;b;10;30600
+Desinfekcni;1;b;11;31940
+Desinfekcni;1;b;12;33402
+Desinfekcni;1;b;13;34089
+Desinfekcni;1;b;14;35594
+Desinfekcni;1;b;15;36465
+Desinfekcni;1;b;16;37605
+Desinfekcni;1;b;17;38555
+Desinfekcni;1;b;18;39754
+Desinfekcni;1;b;19;40947
+Desinfekcni;1;b;20;42376
+Desinfekcni;1;b;21;43982
+Desinfekcni;1;b;22;45865
+Desinfekcni;1;b;23;46953
+Desinfekcni;1;b;24;48350
+Desinfekcni;1;b;25;50022
+Desinfekcni;1;b;26;51766
+Desinfekcni;1;b;27;53009
+Desinfekcni;1;b;28;54420
+Desinfekcni;1;b;29;56006
+Desinfekcni;1;b;30;57438
+Desinfekcni;1;b;31;58250
+Desinfekcni;1;b;32;59874
+Desinfekcni;1;b;33;61097
+Desinfekcni;1;b;34;62334
+Desinfekcni;1;b;35;63858
+Desinfekcni;1;b;36;64743
+Desinfekcni;1;b;37;65744
+Desinfekcni;1;b;38;66694
+Desinfekcni;1;b;39;68450
+Desinfekcni;1;b;40;69156
+Desinfekcni;1;b;41;70331
+Desinfekcni;1;b;42;71482
+Desinfekcni;1;b;43;72650
+Desinfekcni;1;b;44;75158
+Desinfekcni;1;b;45;77660
+Desinfekcni;1;b;46;80022
+Desinfekcni;1;b;47;82590
+Dobesova alej;2;f;0;17235
+Dobesova alej;2;f;1;19640
+Dobesova alej;2;f;2;22035
+Dobesova alej;2;f;3;23228
+Dobesova alej;2;f;4;24467
+Dobesova alej;2;f;5;25665
+Dobesova alej;2;f;6;26853
+Dobesova alej;2;f;7;28035
+Dobesova alej;2;f;8;29259
+Dobesova alej;2;f;9;30435
+Dobesova alej;2;f;10;31660
+Dobesova alej;2;f;11;32865
+Dobesova alej;2;f;12;34046
+Dobesova alej;2;f;13;35248
+Dobesova alej;2;f;14;37660
+Dobesova alej;2;f;15;40065
+Dobesova alej;2;f;16;42444
+Dobesova alej;2;f;17;44861
+Dobesova alej;2;f;18;47273
+Dobesova alej;2;f;19;49640
+Dobesova alej;2;f;20;52043
+Dobesova alej;2;f;21;54435
+Dobesova alej;2;f;22;56853
+Dobesova alej;2;f;23;58035
+Dobesova alej;2;f;24;59269
+Dobesova alej;2;f;25;60487
+Dobesova alej;2;f;26;61674
+Dobesova alej;2;f;27;62827
+Dobesova alej;2;f;28;64035
+Dobesova alej;2;f;29;65244
+Dobesova alej;2;f;30;66435
+Dobesova alej;2;f;31;67635
+Dobesova alej;2;f;32;68848
+Dobesova alej;2;f;33;70064
+Dobesova alej;2;f;34;71266
+Dobesova alej;2;f;35;72473
+Dobesova alej;2;f;36;73678
+Dobesova alej;2;f;37;74873
+Dobesova alej;2;f;38;77235
+Dobesova alej;2;f;39;79653
+Dobesova alej;2;f;40;82040
+Dobesova alej;2;b;0;19175
+Dobesova alej;2;b;1;21493
+Dobesova alej;2;b;2;23946
+Dobesova alej;2;b;3;24947
+Dobesova alej;2;b;4;26182
+Dobesova alej;2;b;5;27462
+Dobesova alej;2;b;6;28610
+Dobesova alej;2;b;7;29964
+Dobesova alej;2;b;8;31140
+Dobesova alej;2;b;9;32317
+Dobesova alej;2;b;10;33345
+Dobesova alej;2;b;11;34715
+Dobesova alej;2;b;12;35979
+Dobesova alej;2;b;13;37038
+Dobesova alej;2;b;14;39451
+Dobesova alej;2;b;15;41865
+Dobesova alej;2;b;16;44251
+Dobesova alej;2;b;17;46682
+Dobesova alej;2;b;18;48977
+Dobesova alej;2;b;19;51517
+Dobesova alej;2;b;20;53745
+Dobesova alej;2;b;21;56316
+Dobesova alej;2;b;22;58741
+Dobesova alej;2;b;23;59801
+Dobesova alej;2;b;24;61047
+Dobesova alej;2;b;25;62264
+Dobesova alej;2;b;26;63464
+Dobesova alej;2;b;27;64550
+Dobesova alej;2;b;28;65973
+Dobesova alej;2;b;29;67128
+Dobesova alej;2;b;30;68201
+Dobesova alej;2;b;31;69455
+Dobesova alej;2;b;32;70759
+Dobesova alej;2;b;33;71745
+Dobesova alej;2;b;34;73117
+Dobesova alej;2;b;35;74314
+Dobesova alej;2;b;36;75546
+Dobesova alej;2;b;37;76661
+Dobesova alej;2;b;38;79127
+Dobesova alej;2;b;39;81458
+Dobesova alej;2;b;40;83745
+Dobrovolniku;3;f;0;22064
+Dobrovolniku;3;f;1;23558
+Dobrovolniku;3;f;2;25069
+Dobrovolniku;3;f;3;26547
+Dobrovolniku;3;f;4;28035
+Dobrovolniku;3;f;5;29569
+Dobrovolniku;3;f;6;31057
+Dobrovolniku;3;f;7;32543
+Dobrovolniku;3;f;8;34035
+Dobrovolniku;3;f;9;35535
+Dobrovolniku;3;f;10;37066
+Dobrovolniku;3;f;11;38557
+Dobrovolniku;3;f;12;40052
+Dobrovolniku;3;f;13;41535
+Dobrovolniku;3;f;14;43057
+Dobrovolniku;3;f;15;44569
+Dobrovolniku;3;f;16;46076
+Dobrovolniku;3;f;17;47592
+Dobrovolniku;3;f;18;49035
+Dobrovolniku;3;f;19;50549
+Dobrovolniku;3;f;20;52048
+Dobrovolniku;3;f;21;53542
+Dobrovolniku;3;f;22;55051
+Dobrovolniku;3;f;23;56535
+Dobrovolniku;3;f;24;58049
+Dobrovolniku;3;f;25;59569
+Dobrovolniku;3;f;26;61047
+Dobrovolniku;3;f;27;62535
+Dobrovolniku;3;f;28;64035
+Dobrovolniku;3;f;29;65550
+Dobrovolniku;3;f;30;67061
+Dobrovolniku;3;f;31;68580
+Dobrovolniku;3;f;32;70070
+Dobrovolniku;3;f;33;71545
+Dobrovolniku;3;f;34;73035
+Dobrovolniku;3;f;35;74535
+Dobrovolniku;3;f;36;76077
+Dobrovolniku;3;f;37;77535
+Dobrovolniku;3;f;38;79066
+Dobrovolniku;3;b;0;23152
+Dobrovolniku;3;b;1;24652
+Dobrovolniku;3;b;2;26177
+Dobrovolniku;3;b;3;27584
+Dobrovolniku;3;b;4;29023
+Dobrovolniku;3;b;5;30597
+Dobrovolniku;3;b;6;32100
+Dobrovolniku;3;b;7;33735
+Dobrovolniku;3;b;8;35010
+Dobrovolniku;3;b;9;36587
+Dobrovolniku;3;b;10;38197
+Dobrovolniku;3;b;11;39632
+Dobrovolniku;3;b;12;41282
+Dobrovolniku;3;b;13;42633
+Dobrovolniku;3;b;14;44010
+Dobrovolniku;3;b;15;45584
+Dobrovolniku;3;b;16;47142
+Dobrovolniku;3;b;17;48625
+Dobrovolniku;3;b;18;50010
+Dobrovolniku;3;b;19;51596
+Dobrovolniku;3;b;20;53125
+Dobrovolniku;3;b;21;54720
+Dobrovolniku;3;b;22;56048
+Dobrovolniku;3;b;23;57658
+Dobrovolniku;3;b;24;59042
+Dobrovolniku;3;b;25;60567
+Dobrovolniku;3;b;26;62239
+Dobrovolniku;3;b;27;63524
+Dobrovolniku;3;b;28;65113
+Dobrovolniku;3;b;29;66605
+Dobrovolniku;3;b;30;68186
+Dobrovolniku;3;b;31;69536
+Dobrovolniku;3;b;32;71070
+Dobrovolniku;3;b;33;72700
+Dobrovolniku;3;b;34;74189
+Dobrovolniku;3;b;35;75673
+Dobrovolniku;3;b;36;77124
+Dobrovolniku;3;b;37;78512
+Dobrovolniku;3;b;38;80159
+Elektromagnetickeho pole;0;f;0;15042
+Elektromagnetickeho pole;0;f;1;16844
+Elektromagnetickeho pole;0;f;2;18697
+Elektromagnetickeho pole;0;f;3;20504
+Elektromagnetickeho pole;0;f;4;22243
+Elektromagnetickeho pole;0;f;5;23289
+Elektromagnetickeho pole;0;f;6;24040
+Elektromagnetickeho pole;0;f;7;24940
+Elektromagnetickeho pole;0;f;8;25897
+Elektromagnetickeho pole;0;f;9;26749
+Elektromagnetickeho pole;0;f;10;27780
+Elektromagnetickeho pole;0;f;11;28557
+Elektromagnetickeho pole;0;f;12;29610
+Elektromagnetickeho pole;0;f;13;30368
+Elektromagnetickeho pole;0;f;14;31240
+Elektromagnetickeho pole;0;f;15;32280
+Elektromagnetickeho pole;0;f;16;33312
+Elektromagnetickeho pole;0;f;17;34172
+Elektromagnetickeho pole;0;f;18;34904
+Elektromagnetickeho pole;0;f;19;35802
+Elektromagnetickeho pole;0;f;20;36640
+Elektromagnetickeho pole;0;f;21;38441
+Elektromagnetickeho pole;0;f;22;40240
+Elektromagnetickeho pole;0;f;23;42040
+Elektromagnetickeho pole;0;f;24;43856
+Elektromagnetickeho pole;0;f;25;45640
+Elektromagnetickeho pole;0;f;26;47594
+Elektromagnetickeho pole;0;f;27;49240
+Elektromagnetickeho pole;0;f;28;51195
+Elektromagnetickeho pole;0;f;29;52840
+Elektromagnetickeho pole;0;f;30;54668
+Elektromagnetickeho pole;0;f;31;55543
+Elektromagnetickeho pole;0;f;32;56444
+Elektromagnetickeho pole;0;f;33;57344
+Elektromagnetickeho pole;0;f;34;58247
+Elektromagnetickeho pole;0;f;35;59140
+Elektromagnetickeho pole;0;f;36;60057
+Elektromagnetickeho pole;0;f;37;60940
+Elektromagnetickeho pole;0;f;38;62035
+Elektromagnetickeho pole;0;f;39;62866
+Elektromagnetickeho pole;0;f;40;63640
+Elektromagnetickeho pole;0;f;41;64598
+Elektromagnetickeho pole;0;f;42;65454
+Elektromagnetickeho pole;0;f;43;66340
+Elektromagnetickeho pole;0;f;44;67240
+Elektromagnetickeho pole;0;f;45;68152
+Elektromagnetickeho pole;0;f;46;69040
+Elektromagnetickeho pole;0;f;47;70917
+Elektromagnetickeho pole;0;f;48;72700
+Elektromagnetickeho pole;0;f;49;74571
+Elektromagnetickeho pole;0;f;50;76497
+Elektromagnetickeho pole;0;f;51;78048
+Elektromagnetickeho pole;0;f;52;79840
+Elektromagnetickeho pole;0;f;53;81640
+Elektromagnetickeho pole;0;f;54;83454
+Elektromagnetickeho pole;0;b;0;15807
+Elektromagnetickeho pole;0;b;1;17580
+Elektromagnetickeho pole;0;b;2;19380
+Elektromagnetickeho pole;0;b;3;21252
+Elektromagnetickeho pole;0;b;4;22980
+Elektromagnetickeho pole;0;b;5;23934
+Elektromagnetickeho pole;0;b;6;24889
+Elektromagnetickeho pole;0;b;7;25729
+Elektromagnetickeho pole;0;b;8;26951
+Elektromagnetickeho pole;0;b;9;27677
+Elektromagnetickeho pole;0;b;10;28799
+Elektromagnetickeho pole;0;b;11;29532
+Elektromagnetickeho pole;0;b;12;30473
+Elektromagnetickeho pole;0;b;13;31312
+Elektromagnetickeho pole;0;b;14;32331
+Elektromagnetickeho pole;0;b;15;33021
+Elektromagnetickeho pole;0;b;16;34058
+Elektromagnetickeho pole;0;b;17;34870
+Elektromagnetickeho pole;0;b;18;35595
+Elektromagnetickeho pole;0;b;19;36737
+Elektromagnetickeho pole;0;b;20;37489
+Elektromagnetickeho pole;0;b;21;39487
+Elektromagnetickeho pole;0;b;22;41024
+Elektromagnetickeho pole;0;b;23;42780
+Elektromagnetickeho pole;0;b;24;44685
+Elektromagnetickeho pole;0;b;25;46424
+Elektromagnetickeho pole;0;b;26;48180
+Elektromagnetickeho pole;0;b;27;49989
+Elektromagnetickeho pole;0;b;28;51780
+Elektromagnetickeho pole;0;b;29;53662
+Elektromagnetickeho pole;0;b;30;55505
+Elektromagnetickeho pole;0;b;31;56479
+Elektromagnetickeho pole;0;b;32;57605
+Elektromagnetickeho pole;0;b;33;58221
+Elektromagnetickeho pole;0;b;34;59469
+Elektromagnetickeho pole;0;b;35;60103
+Elektromagnetickeho pole;0;b;36;61072
+Elektromagnetickeho pole;0;b;37;61796
+Elektromagnetickeho pole;0;b;38;62824
+Elektromagnetickeho pole;0;b;39;63480
+Elektromagnetickeho pole;0;b;40;64484
+Elektromagnetickeho pole;0;b;41;65292
+Elektromagnetickeho pole;0;b;42;66375
+Elektromagnetickeho pole;0;b;43;67453
+Elektromagnetickeho pole;0;b;44;68230
+Elektromagnetickeho pole;0;b;45;68888
+Elektromagnetickeho pole;0;b;46;69817
+Elektromagnetickeho pole;0;b;47;71585
+Elektromagnetickeho pole;0;b;48;73399
+Elektromagnetickeho pole;0;b;49;75321
+Elektromagnetickeho pole;0;b;50;76980
+Elektromagnetickeho pole;0;b;51;78789
+Elektromagnetickeho pole;0;b;52;80650
+Elektromagnetickeho pole;0;b;53;82398
+Elektromagnetickeho pole;0;b;54;84419
+Fyziku;0;f;0;14820
+Fyziku;0;f;1;16621
+Fyziku;0;f;2;18473
+Fyziku;0;f;3;20252
+Fyziku;0;f;4;22020
+Fyziku;0;f;5;22997
+Fyziku;0;f;6;23820
+Fyziku;0;f;7;24724
+Fyziku;0;f;8;25620
+Fyziku;0;f;9;26520
+Fyziku;0;f;10;27460
+Fyziku;0;f;11;28320
+Fyziku;0;f;12;29394
+Fyziku;0;f;13;30145
+Fyziku;0;f;14;31020
+Fyziku;0;f;15;32069
+Fyziku;0;f;16;33082
+Fyziku;0;f;17;33867
+Fyziku;0;f;18;34621
+Fyziku;0;f;19;35524
+Fyziku;0;f;20;36481
+Fyziku;0;f;21;38220
+Fyziku;0;f;22;40020
+Fyziku;0;f;23;41820
+Fyziku;0;f;24;43636
+Fyziku;0;f;25;45420
+Fyziku;0;f;26;47318
+Fyziku;0;f;27;49021
+Fyziku;0;f;28;50920
+Fyziku;0;f;29;52604
+Fyziku;0;f;30;54435
+Fyziku;0;f;31;55320
+Fyziku;0;f;32;56220
+Fyziku;0;f;33;57120
+Fyziku;0;f;34;58020
+Fyziku;0;f;35;58920
+Fyziku;0;f;36;59820
+Fyziku;0;f;37;60741
+Fyziku;0;f;38;61767
+Fyziku;0;f;39;62584
+Fyziku;0;f;40;63420
+Fyziku;0;f;41;64320
+Fyziku;0;f;42;65246
+Fyziku;0;f;43;66120
+Fyziku;0;f;44;67020
+Fyziku;0;f;45;67920
+Fyziku;0;f;46;68820
+Fyziku;0;f;47;70673
+Fyziku;0;f;48;72459
+Fyziku;0;f;49;74328
+Fyziku;0;f;50;76180
+Fyziku;0;f;51;77820
+Fyziku;0;f;52;79620
+Fyziku;0;f;53;81420
+Fyziku;0;f;54;83227
+Fyziku;0;b;0;16008
+Fyziku;0;b;1;17800
+Fyziku;0;b;2;19600
+Fyziku;0;b;3;21447
+Fyziku;0;b;4;23200
+Fyziku;0;b;5;24168
+Fyziku;0;b;6;25113
+Fyziku;0;b;7;25952
+Fyziku;0;b;8;27221
+Fyziku;0;b;9;27908
+Fyziku;0;b;10;29037
+Fyziku;0;b;11;29769
+Fyziku;0;b;12;30682
+Fyziku;0;b;13;31524
+Fyziku;0;b;14;32528
+Fyziku;0;b;15;33240
+Fyziku;0;b;16;34293
+Fyziku;0;b;17;35085
+Fyziku;0;b;18;35800
+Fyziku;0;b;19;36999
+Fyziku;0;b;20;37750
+Fyziku;0;b;21;39751
+Fyziku;0;b;22;41220
+Fyziku;0;b;23;43000
+Fyziku;0;b;24;44915
+Fyziku;0;b;25;46661
+Fyziku;0;b;26;48400
+Fyziku;0;b;27;50229
+Fyziku;0;b;28;52000
+Fyziku;0;b;29;53854
+Fyziku;0;b;30;55701
+Fyziku;0;b;31;56758
+Fyziku;0;b;32;57957
+Fyziku;0;b;33;58421
+Fyziku;0;b;34;59748
+Fyziku;0;b;35;60378
+Fyziku;0;b;36;61259
+Fyziku;0;b;37;61988
+Fyziku;0;b;38;63081
+Fyziku;0;b;39;63700
+Fyziku;0;b;40;64676
+Fyziku;0;b;41;65500
+Fyziku;0;b;42;66581
+Fyziku;0;b;43;67790
+Fyziku;0;b;44;68415
+Fyziku;0;b;45;69100
+Fyziku;0;b;46;70050
+Fyziku;0;b;47;71810
+Fyziku;0;b;48;73600
+Fyziku;0;b;49;75563
+Fyziku;0;b;50;77200
+Fyziku;0;b;51;79012
+Fyziku;0;b;52;80881
+Fyziku;0;b;53;82617
+Fyziku;0;b;54;84669
+Infekcni;1;f;0;16025
+Infekcni;1;f;1;17567
+Infekcni;1;f;2;18963
+Infekcni;1;f;3;20540
+Infekcni;1;f;4;22558
+Infekcni;1;f;5;23596
+Infekcni;1;f;6;24903
+Infekcni;1;f;7;25998
+Infekcni;1;f;8;27220
+Infekcni;1;f;9;28798
+Infekcni;1;f;10;30198
+Infekcni;1;f;11;31659
+Infekcni;1;f;12;32451
+Infekcni;1;f;13;33337
+Infekcni;1;f;14;34457
+Infekcni;1;f;15;36423
+Infekcni;1;f;16;36911
+Infekcni;1;f;17;38015
+Infekcni;1;f;18;39183
+Infekcni;1;f;19;40314
+Infekcni;1;f;20;42220
+Infekcni;1;f;21;43302
+Infekcni;1;f;22;44806
+Infekcni;1;f;23;46312
+Infekcni;1;f;24;47720
+Infekcni;1;f;25;49264
+Infekcni;1;f;26;50881
+Infekcni;1;f;27;52367
+Infekcni;1;f;28;53999
+Infekcni;1;f;29;55955
+Infekcni;1;f;30;56966
+Infekcni;1;f;31;57965
+Infekcni;1;f;32;59209
+Infekcni;1;f;33;60621
+Infekcni;1;f;34;61455
+Infekcni;1;f;35;62702
+Infekcni;1;f;36;64051
+Infekcni;1;f;37;65174
+Infekcni;1;f;38;66211
+Infekcni;1;f;39;67525
+Infekcni;1;f;40;68729
+Infekcni;1;f;41;69862
+Infekcni;1;f;42;71018
+Infekcni;1;f;43;72036
+Infekcni;1;f;44;74922
+Infekcni;1;f;45;77184
+Infekcni;1;f;46;79239
+Infekcni;1;f;47;81771
+Infekcni;1;b;0;15084
+Infekcni;1;b;1;16552
+Infekcni;1;b;2;18093
+Infekcni;1;b;3;19530
+Infekcni;1;b;4;21067
+Infekcni;1;b;5;22543
+Infekcni;1;b;6;23730
+Infekcni;1;b;7;24936
+Infekcni;1;b;8;26130
+Infekcni;1;b;9;27514
+Infekcni;1;b;10;28597
+Infekcni;1;b;11;29730
+Infekcni;1;b;12;31254
+Infekcni;1;b;13;32195
+Infekcni;1;b;14;33504
+Infekcni;1;b;15;34653
+Infekcni;1;b;16;35785
+Infekcni;1;b;17;36997
+Infekcni;1;b;18;38158
+Infekcni;1;b;19;39330
+Infekcni;1;b;20;40864
+Infekcni;1;b;21;42341
+Infekcni;1;b;22;43886
+Infekcni;1;b;23;45360
+Infekcni;1;b;24;46837
+Infekcni;1;b;25;48330
+Infekcni;1;b;26;49927
+Infekcni;1;b;27;51338
+Infekcni;1;b;28;52874
+Infekcni;1;b;29;54330
+Infekcni;1;b;30;55544
+Infekcni;1;b;31;56726
+Infekcni;1;b;32;57968
+Infekcni;1;b;33;59174
+Infekcni;1;b;34;60359
+Infekcni;1;b;35;61655
+Infekcni;1;b;36;62794
+Infekcni;1;b;37;63951
+Infekcni;1;b;38;65130
+Infekcni;1;b;39;66441
+Infekcni;1;b;40;67526
+Infekcni;1;b;41;68780
+Infekcni;1;b;42;69930
+Infekcni;1;b;43;71130
+Infekcni;1;b;44;73560
+Infekcni;1;b;45;75993
+Infekcni;1;b;46;78349
+Infekcni;1;b;47;80793
+Italska;1;f;0;14220
+Italska;1;f;1;15720
+Italska;1;f;2;17220
+Italska;1;f;3;18720
+Italska;1;f;4;20220
+Italska;1;f;5;21720
+Italska;1;f;6;22920
+Italska;1;f;7;24120
+Italska;1;f;8;25320
+Italska;1;f;9;26520
+Italska;1;f;10;27720
+Italska;1;f;11;28920
+Italska;1;f;12;30120
+Italska;1;f;13;31320
+Italska;1;f;14;32520
+Italska;1;f;15;33720
+Italska;1;f;16;34920
+Italska;1;f;17;36120
+Italska;1;f;18;37320
+Italska;1;f;19;38520
+Italska;1;f;20;40020
+Italska;1;f;21;41520
+Italska;1;f;22;43020
+Italska;1;f;23;44520
+Italska;1;f;24;46020
+Italska;1;f;25;47520
+Italska;1;f;26;49020
+Italska;1;f;27;50520
+Italska;1;f;28;52020
+Italska;1;f;29;53520
+Italska;1;f;30;54720
+Italska;1;f;31;55920
+Italska;1;f;32;57120
+Italska;1;f;33;58320
+Italska;1;f;34;59520
+Italska;1;f;35;60720
+Italska;1;f;36;61920
+Italska;1;f;37;63120
+Italska;1;f;38;64320
+Italska;1;f;39;65520
+Italska;1;f;40;66720
+Italska;1;f;41;67920
+Italska;1;f;42;69120
+Italska;1;f;43;70320
+Italska;1;f;44;72720
+Italska;1;f;45;75120
+Italska;1;f;46;77520
+Italska;1;f;47;79920
+Italska;1;b;0;16969
+Italska;1;b;1;18330
+Italska;1;b;2;20307
+Italska;1;b;3;21353
+Italska;1;b;4;22990
+Italska;1;b;5;24338
+Italska;1;b;6;25593
+Italska;1;b;7;26898
+Italska;1;b;8;27830
+Italska;1;b;9;30041
+Italska;1;b;10;30770
+Italska;1;b;11;32125
+Italska;1;b;12;33622
+Italska;1;b;13;34269
+Italska;1;b;14;35787
+Italska;1;b;15;36656
+Italska;1;b;16;37817
+Italska;1;b;17;38741
+Italska;1;b;18;39916
+Italska;1;b;19;41155
+Italska;1;b;20;42575
+Italska;1;b;21;44112
+Italska;1;b;22;46091
+Italska;1;b;23;47173
+Italska;1;b;24;48530
+Italska;1;b;25;50173
+Italska;1;b;26;51969
+Italska;1;b;27;53184
+Italska;1;b;28;54630
+Italska;1;b;29;56261
+Italska;1;b;30;57644
+Italska;1;b;31;58449
+Italska;1;b;32;60066
+Italska;1;b;33;61323
+Italska;1;b;34;62488
+Italska;1;b;35;64055
+Italska;1;b;36;64991
+Italska;1;b;37;65944
+Italska;1;b;38;66858
+Italska;1;b;39;68620
+Italska;1;b;40;69361
+Italska;1;b;41;70493
+Italska;1;b;42;71662
+Italska;1;b;43;72830
+Italska;1;b;44;75343
+Italska;1;b;45;77799
+Italska;1;b;46;80197
+Italska;1;b;47;82799
+Knihovnicka;0;f;0;15763
+Knihovnicka;0;f;1;17606
+Knihovnicka;0;f;2;19527
+Knihovnicka;0;f;3;21374
+Knihovnicka;0;f;4;22975
+Knihovnicka;0;f;5;24252
+Knihovnicka;0;f;6;24760
+Knihovnicka;0;f;7;25727
+Knihovnicka;0;f;8;26740
+Knihovnicka;0;f;9;27710
+Knihovnicka;0;f;10;28733
+Knihovnicka;0;f;11;29306
+Knihovnicka;0;f;12;30531
+Knihovnicka;0;f;13;31325
+Knihovnicka;0;f;14;32219
+Knihovnicka;0;f;15;33283
+Knihovnicka;0;f;16;34422
+Knihovnicka;0;f;17;35158
+Knihovnicka;0;f;18;35665
+Knihovnicka;0;f;19;36590
+Knihovnicka;0;f;20;37486
+Knihovnicka;0;f;21;39204
+Knihovnicka;0;f;22;41064
+Knihovnicka;0;f;23;42760
+Knihovnicka;0;f;24;44604
+Knihovnicka;0;f;25;46360
+Knihovnicka;0;f;26;48480
+Knihovnicka;0;f;27;49971
+Knihovnicka;0;f;28;52151
+Knihovnicka;0;f;29;53613
+Knihovnicka;0;f;30;55512
+Knihovnicka;0;f;31;56399
+Knihovnicka;0;f;32;57297
+Knihovnicka;0;f;33;58145
+Knihovnicka;0;f;34;59211
+Knihovnicka;0;f;35;59860
+Knihovnicka;0;f;36;61021
+Knihovnicka;0;f;37;62038
+Knihovnicka;0;f;38;63276
+Knihovnicka;0;f;39;64224
+Knihovnicka;0;f;40;64693
+Knihovnicka;0;f;41;65404
+Knihovnicka;0;f;42;66317
+Knihovnicka;0;f;43;67060
+Knihovnicka;0;f;44;67960
+Knihovnicka;0;f;45;69012
+Knihovnicka;0;f;46;69817
+Knihovnicka;0;f;47;71584
+Knihovnicka;0;f;48;73546
+Knihovnicka;0;f;49;75509
+Knihovnicka;0;f;50;77401
+Knihovnicka;0;f;51;78760
+Knihovnicka;0;f;52;80560
+Knihovnicka;0;f;53;82360
+Knihovnicka;0;f;54;84187
+Knihovnicka;0;b;0;15060
+Knihovnicka;0;b;1;16860
+Knihovnicka;0;b;2;18660
+Knihovnicka;0;b;3;20460
+Knihovnicka;0;b;4;22260
+Knihovnicka;0;b;5;23160
+Knihovnicka;0;b;6;24060
+Knihovnicka;0;b;7;24960
+Knihovnicka;0;b;8;25860
+Knihovnicka;0;b;9;26760
+Knihovnicka;0;b;10;27674
+Knihovnicka;0;b;11;28650
+Knihovnicka;0;b;12;29460
+Knihovnicka;0;b;13;30360
+Knihovnicka;0;b;14;31276
+Knihovnicka;0;b;15;32160
+Knihovnicka;0;b;16;33060
+Knihovnicka;0;b;17;33960
+Knihovnicka;0;b;18;34860
+Knihovnicka;0;b;19;35760
+Knihovnicka;0;b;20;36691
+Knihovnicka;0;b;21;38490
+Knihovnicka;0;b;22;40264
+Knihovnicka;0;b;23;42060
+Knihovnicka;0;b;24;43860
+Knihovnicka;0;b;25;45660
+Knihovnicka;0;b;26;47460
+Knihovnicka;0;b;27;49260
+Knihovnicka;0;b;28;51060
+Knihovnicka;0;b;29;52864
+Knihovnicka;0;b;30;54660
+Knihovnicka;0;b;31;55560
+Knihovnicka;0;b;32;56531
+Knihovnicka;0;b;33;57360
+Knihovnicka;0;b;34;58349
+Knihovnicka;0;b;35;59160
+Knihovnicka;0;b;36;60066
+Knihovnicka;0;b;37;60960
+Knihovnicka;0;b;38;61863
+Knihovnicka;0;b;39;62760
+Knihovnicka;0;b;40;63660
+Knihovnicka;0;b;41;64563
+Knihovnicka;0;b;42;65504
+Knihovnicka;0;b;43;66456
+Knihovnicka;0;b;44;67260
+Knihovnicka;0;b;45;68160
+Knihovnicka;0;b;46;69060
+Knihovnicka;0;b;47;70860
+Knihovnicka;0;b;48;72660
+Knihovnicka;0;b;49;74460
+Knihovnicka;0;b;50;76260
+Knihovnicka;0;b;51;78060
+Knihovnicka;0;b;52;79860
+Knihovnicka;0;b;53;81676
+Knihovnicka;0;b;54;83460
+Lekaru;3;f;0;22205
+Lekaru;3;f;1;23709
+Lekaru;3;f;2;25238
+Lekaru;3;f;3;26704
+Lekaru;3;f;4;28170
+Lekaru;3;f;5;29745
+Lekaru;3;f;6;31214
+Lekaru;3;f;7;32670
+Lekaru;3;f;8;34172
+Lekaru;3;f;9;35682
+Lekaru;3;f;10;37223
+Lekaru;3;f;11;38700
+Lekaru;3;f;12;40233
+Lekaru;3;f;13;41670
+Lekaru;3;f;14;43192
+Lekaru;3;f;15;44695
+Lekaru;3;f;16;46221
+Lekaru;3;f;17;47732
+Lekaru;3;f;18;49170
+Lekaru;3;f;19;50693
+Lekaru;3;f;20;52172
+Lekaru;3;f;21;53679
+Lekaru;3;f;22;55240
+Lekaru;3;f;23;56670
+Lekaru;3;f;24;58177
+Lekaru;3;f;25;59702
+Lekaru;3;f;26;61213
+Lekaru;3;f;27;62672
+Lekaru;3;f;28;64195
+Lekaru;3;f;29;65713
+Lekaru;3;f;30;67197
+Lekaru;3;f;31;68739
+Lekaru;3;f;32;70214
+Lekaru;3;f;33;71675
+Lekaru;3;f;34;73170
+Lekaru;3;f;35;74682
+Lekaru;3;f;36;76241
+Lekaru;3;f;37;77670
+Lekaru;3;f;38;79249
+Lekaru;3;b;0;22976
+Lekaru;3;b;1;24495
+Lekaru;3;b;2;26025
+Lekaru;3;b;3;27445
+Lekaru;3;b;4;28879
+Lekaru;3;b;5;30469
+Lekaru;3;b;6;31949
+Lekaru;3;b;7;33572
+Lekaru;3;b;8;34875
+Lekaru;3;b;9;36447
+Lekaru;3;b;10;38049
+Lekaru;3;b;11;39471
+Lekaru;3;b;12;41092
+Lekaru;3;b;13;42467
+Lekaru;3;b;14;43903
+Lekaru;3;b;15;45440
+Lekaru;3;b;16;47002
+Lekaru;3;b;17;48453
+Lekaru;3;b;18;49876
+Lekaru;3;b;19;51450
+Lekaru;3;b;20;52987
+Lekaru;3;b;21;54538
+Lekaru;3;b;22;55921
+Lekaru;3;b;23;57489
+Lekaru;3;b;24;58895
+Lekaru;3;b;25;60416
+Lekaru;3;b;26;62067
+Lekaru;3;b;27;63375
+Lekaru;3;b;28;64938
+Lekaru;3;b;29;66446
+Lekaru;3;b;30;68020
+Lekaru;3;b;31;69428
+Lekaru;3;b;32;70915
+Lekaru;3;b;33;72520
+Lekaru;3;b;34;74025
+Lekaru;3;b;35;75510
+Lekaru;3;b;36;76982
+Lekaru;3;b;37;78375
+Lekaru;3;b;38;79994
+Lihovar;1;f;0;14588
+Lihovar;1;f;1;16098
+Lihovar;1;f;2;17580
+Lihovar;1;f;3;19093
+Lihovar;1;f;4;20652
+Lihovar;1;f;5;22096
+Lihovar;1;f;6;23337
+Lihovar;1;f;7;24480
+Lihovar;1;f;8;25698
+Lihovar;1;f;9;27030
+Lihovar;1;f;10;28201
+Lihovar;1;f;11;29419
+Lihovar;1;f;12;30599
+Lihovar;1;f;13;31777
+Lihovar;1;f;14;32880
+Lihovar;1;f;15;34252
+Lihovar;1;f;16;35394
+Lihovar;1;f;17;36507
+Lihovar;1;f;18;37790
+Lihovar;1;f;19;38898
+Lihovar;1;f;20;40454
+Lihovar;1;f;21;41892
+Lihovar;1;f;22;43396
+Lihovar;1;f;23;44872
+Lihovar;1;f;24;46384
+Lihovar;1;f;25;47880
+Lihovar;1;f;26;49420
+Lihovar;1;f;27;50914
+Lihovar;1;f;28;52441
+Lihovar;1;f;29;54019
+Lihovar;1;f;30;55125
+Lihovar;1;f;31;56280
+Lihovar;1;f;32;57488
+Lihovar;1;f;33;58779
+Lihovar;1;f;34;59880
+Lihovar;1;f;35;61080
+Lihovar;1;f;36;62304
+Lihovar;1;f;37;63532
+Lihovar;1;f;38;64702
+Lihovar;1;f;39;65908
+Lihovar;1;f;40;67091
+Lihovar;1;f;41;68321
+Lihovar;1;f;42;69494
+Lihovar;1;f;43;70680
+Lihovar;1;f;44;73247
+Lihovar;1;f;45;75493
+Lihovar;1;f;46;77880
+Lihovar;1;f;47;80302
+Lihovar;1;b;0;16558
+Lihovar;1;b;1;17944
+Lihovar;1;b;2;19833
+Lihovar;1;b;3;20990
+Lihovar;1;b;4;22572
+Lihovar;1;b;5;23977
+Lihovar;1;b;6;25204
+Lihovar;1;b;7;26493
+Lihovar;1;b;8;27516
+Lihovar;1;b;9;29582
+Lihovar;1;b;10;30392
+Lihovar;1;b;11;31738
+Lihovar;1;b;12;33179
+Lihovar;1;b;13;33943
+Lihovar;1;b;14;35363
+Lihovar;1;b;15;36272
+Lihovar;1;b;16;37415
+Lihovar;1;b;17;38377
+Lihovar;1;b;18;39548
+Lihovar;1;b;19;40756
+Lihovar;1;b;20;42177
+Lihovar;1;b;21;43782
+Lihovar;1;b;22;45629
+Lihovar;1;b;23;46756
+Lihovar;1;b;24;48170
+Lihovar;1;b;25;49822
+Lihovar;1;b;26;51545
+Lihovar;1;b;27;52809
+Lihovar;1;b;28;54194
+Lihovar;1;b;29;55837
+Lihovar;1;b;30;57196
+Lihovar;1;b;31;58091
+Lihovar;1;b;32;59607
+Lihovar;1;b;33;60748
+Lihovar;1;b;34;62084
+Lihovar;1;b;35;63630
+Lihovar;1;b;36;64477
+Lihovar;1;b;37;65542
+Lihovar;1;b;38;66541
+Lihovar;1;b;39;68211
+Lihovar;1;b;40;68970
+Lihovar;1;b;41;70148
+Lihovar;1;b;42;71294
+Lihovar;1;b;43;72470
+Lihovar;1;b;44;74966
+Lihovar;1;b;45;77452
+Lihovar;1;b;46;79823
+Lihovar;1;b;47;82366
+Matematiku;0;f;0;14700
+Matematiku;0;f;1;16503
+Matematiku;0;f;2;18357
+Matematiku;0;f;3;20130
+Matematiku;0;f;4;21902
+Matematiku;0;f;5;22893
+Matematiku;0;f;6;23700
+Matematiku;0;f;7;24607
+Matematiku;0;f;8;25500
+Matematiku;0;f;9;26400
+Matematiku;0;f;10;27342
+Matematiku;0;f;11;28200
+Matematiku;0;f;12;29176
+Matematiku;0;f;13;30000
+Matematiku;0;f;14;30915
+Matematiku;0;f;15;31894
+Matematiku;0;f;16;32936
+Matematiku;0;f;17;33698
+Matematiku;0;f;18;34500
+Matematiku;0;f;19;35454
+Matematiku;0;f;20;36328
+Matematiku;0;f;21;38100
+Matematiku;0;f;22;39900
+Matematiku;0;f;23;41700
+Matematiku;0;f;24;43546
+Matematiku;0;f;25;45300
+Matematiku;0;f;26;47156
+Matematiku;0;f;27;48900
+Matematiku;0;f;28;50792
+Matematiku;0;f;29;52523
+Matematiku;0;f;30;54306
+Matematiku;0;f;31;55206
+Matematiku;0;f;32;56100
+Matematiku;0;f;33;57016
+Matematiku;0;f;34;57900
+Matematiku;0;f;35;58800
+Matematiku;0;f;36;59712
+Matematiku;0;f;37;60603
+Matematiku;0;f;38;61604
+Matematiku;0;f;39;62434
+Matematiku;0;f;40;63300
+Matematiku;0;f;41;64223
+Matematiku;0;f;42;65103
+Matematiku;0;f;43;66000
+Matematiku;0;f;44;66900
+Matematiku;0;f;45;67800
+Matematiku;0;f;46;68722
+Matematiku;0;f;47;70531
+Matematiku;0;f;48;72320
+Matematiku;0;f;49;74172
+Matematiku;0;f;50;76004
+Matematiku;0;f;51;77700
+Matematiku;0;f;52;79500
+Matematiku;0;f;53;81300
+Matematiku;0;f;54;83100
+Matematiku;0;b;0;16120
+Matematiku;0;b;1;17920
+Matematiku;0;b;2;19720
+Matematiku;0;b;3;21529
+Matematiku;0;b;4;23320
+Matematiku;0;b;5;24288
+Matematiku;0;b;6;25176
+Matematiku;0;b;7;26072
+Matematiku;0;b;8;27325
+Matematiku;0;b;9;27968
+Matematiku;0;b;10;29126
+Matematiku;0;b;11;29903
+Matematiku;0;b;12;30771
+Matematiku;0;b;13;31601
+Matematiku;0;b;14;32624
+Matematiku;0;b;15;33359
+Matematiku;0;b;16;34397
+Matematiku;0;b;17;35210
+Matematiku;0;b;18;35920
+Matematiku;0;b;19;37095
+Matematiku;0;b;20;37841
+Matematiku;0;b;21;39866
+Matematiku;0;b;22;41320
+Matematiku;0;b;23;43120
+Matematiku;0;b;24;45060
+Matematiku;0;b;25;46763
+Matematiku;0;b;26;48520
+Matematiku;0;b;27;50351
+Matematiku;0;b;28;52120
+Matematiku;0;b;29;53920
+Matematiku;0;b;30;55812
+Matematiku;0;b;31;56821
+Matematiku;0;b;32;58059
+Matematiku;0;b;33;58573
+Matematiku;0;b;34;59992
+Matematiku;0;b;35;60559
+Matematiku;0;b;36;61319
+Matematiku;0;b;37;62074
+Matematiku;0;b;38;63175
+Matematiku;0;b;39;63820
+Matematiku;0;b;40;64758
+Matematiku;0;b;41;65620
+Matematiku;0;b;42;66662
+Matematiku;0;b;43;67922
+Matematiku;0;b;44;68526
+Matematiku;0;b;45;69221
+Matematiku;0;b;46;70165
+Matematiku;0;b;47;71920
+Matematiku;0;b;48;73720
+Matematiku;0;b;49;75629
+Matematiku;0;b;50;77320
+Matematiku;0;b;51;79144
+Matematiku;0;b;52;81007
+Matematiku;0;b;53;82686
+Matematiku;0;b;54;84815
+Maternovy sady;2;f;0;18165
+Maternovy sady;2;f;1;20608
+Maternovy sady;2;f;2;23098
+Maternovy sady;2;f;3;24327
+Maternovy sady;2;f;4;25547
+Maternovy sady;2;f;5;26830
+Maternovy sady;2;f;6;27966
+Maternovy sady;2;f;7;28980
+Maternovy sady;2;f;8;30358
+Maternovy sady;2;f;9;31480
+Maternovy sady;2;f;10;32731
+Maternovy sady;2;f;11;33894
+Maternovy sady;2;f;12;35124
+Maternovy sady;2;f;13;36348
+Maternovy sady;2;f;14;38676
+Maternovy sady;2;f;15;41216
+Maternovy sady;2;f;16;43415
+Maternovy sady;2;f;17;45870
+Maternovy sady;2;f;18;48430
+Maternovy sady;2;f;19;50642
+Maternovy sady;2;f;20;53082
+Maternovy sady;2;f;21;55556
+Maternovy sady;2;f;22;57889
+Maternovy sady;2;f;23;58982
+Maternovy sady;2;f;24;60444
+Maternovy sady;2;f;25;61603
+Maternovy sady;2;f;26;62715
+Maternovy sady;2;f;27;64001
+Maternovy sady;2;f;28;65010
+Maternovy sady;2;f;29;66326
+Maternovy sady;2;f;30;67380
+Maternovy sady;2;f;31;68637
+Maternovy sady;2;f;32;70005
+Maternovy sady;2;f;33;71154
+Maternovy sady;2;f;34;72356
+Maternovy sady;2;f;35;73675
+Maternovy sady;2;f;36;74793
+Maternovy sady;2;f;37;75877
+Maternovy sady;2;f;38;78180
+Maternovy sady;2;f;39;80689
+Maternovy sady;2;f;40;83098
+Maternovy sady;2;b;0;18000
+Maternovy sady;2;b;1;20400
+Maternovy sady;2;b;2;22800
+Maternovy sady;2;b;3;24000
+Maternovy sady;2;b;4;25200
+Maternovy sady;2;b;5;26400
+Maternovy sady;2;b;6;27600
+Maternovy sady;2;b;7;28800
+Maternovy sady;2;b;8;30000
+Maternovy sady;2;b;9;31200
+Maternovy sady;2;b;10;32400
+Maternovy sady;2;b;11;33600
+Maternovy sady;2;b;12;34800
+Maternovy sady;2;b;13;36000
+Maternovy sady;2;b;14;38400
+Maternovy sady;2;b;15;40800
+Maternovy sady;2;b;16;43200
+Maternovy sady;2;b;17;45600
+Maternovy sady;2;b;18;48000
+Maternovy sady;2;b;19;50400
+Maternovy sady;2;b;20;52800
+Maternovy sady;2;b;21;55200
+Maternovy sady;2;b;22;57600
+Maternovy sady;2;b;23;58800
+Maternovy sady;2;b;24;60000
+Maternovy sady;2;b;25;61200
+Maternovy sady;2;b;26;62400
+Maternovy sady;2;b;27;63600
+Maternovy sady;2;b;28;64800
+Maternovy sady;2;b;29;66000
+Maternovy sady;2;b;30;67200
+Maternovy sady;2;b;31;68400
+Maternovy sady;2;b;32;69600
+Maternovy sady;2;b;33;70800
+Maternovy sady;2;b;34;72000
+Maternovy sady;2;b;35;73200
+Maternovy sady;2;b;36;74400
+Maternovy sady;2;b;37;75600
+Maternovy sady;2;b;38;78000
+Maternovy sady;2;b;39;80400
+Maternovy sady;2;b;40;82800
+Mikroelektronicka;0;f;0;15178
+Mikroelektronicka;0;f;1;16970
+Mikroelektronicka;0;f;2;18837
+Mikroelektronicka;0;f;3;20643
+Mikroelektronicka;0;f;4;22374
+Mikroelektronicka;0;f;5;23437
+Mikroelektronicka;0;f;6;24160
+Mikroelektronicka;0;f;7;25060
+Mikroelektronicka;0;f;8;26016
+Mikroelektronicka;0;f;9;26916
+Mikroelektronicka;0;f;10;27917
+Mikroelektronicka;0;f;11;28673
+Mikroelektronicka;0;f;12;29778
+Mikroelektronicka;0;f;13;30510
+Mikroelektronicka;0;f;14;31360
+Mikroelektronicka;0;f;15;32495
+Mikroelektronicka;0;f;16;33440
+Mikroelektronicka;0;f;17;34360
+Mikroelektronicka;0;f;18;35040
+Mikroelektronicka;0;f;19;35908
+Mikroelektronicka;0;f;20;36781
+Mikroelektronicka;0;f;21;38565
+Mikroelektronicka;0;f;22;40372
+Mikroelektronicka;0;f;23;42165
+Mikroelektronicka;0;f;24;43961
+Mikroelektronicka;0;f;25;45760
+Mikroelektronicka;0;f;26;47757
+Mikroelektronicka;0;f;27;49376
+Mikroelektronicka;0;f;28;51351
+Mikroelektronicka;0;f;29;52996
+Mikroelektronicka;0;f;30;54760
+Mikroelektronicka;0;f;31;55660
+Mikroelektronicka;0;f;32;56605
+Mikroelektronicka;0;f;33;57474
+Mikroelektronicka;0;f;34;58385
+Mikroelektronicka;0;f;35;59297
+Mikroelektronicka;0;f;36;60192
+Mikroelektronicka;0;f;37;61060
+Mikroelektronicka;0;f;38;62207
+Mikroelektronicka;0;f;39;63076
+Mikroelektronicka;0;f;40;63811
+Mikroelektronicka;0;f;41;64735
+Mikroelektronicka;0;f;42;65611
+Mikroelektronicka;0;f;43;66460
+Mikroelektronicka;0;f;44;67384
+Mikroelektronicka;0;f;45;68301
+Mikroelektronicka;0;f;46;69165
+Mikroelektronicka;0;f;47;71045
+Mikroelektronicka;0;f;48;72855
+Mikroelektronicka;0;f;49;74746
+Mikroelektronicka;0;f;50;76668
+Mikroelektronicka;0;f;51;78175
+Mikroelektronicka;0;f;52;79960
+Mikroelektronicka;0;f;53;81760
+Mikroelektronicka;0;f;54;83560
+Mikroelektronicka;0;b;0;15679
+Mikroelektronicka;0;b;1;17460
+Mikroelektronicka;0;b;2;19272
+Mikroelektronicka;0;b;3;21119
+Mikroelektronicka;0;b;4;22860
+Mikroelektronicka;0;b;5;23802
+Mikroelektronicka;0;b;6;24748
+Mikroelektronicka;0;b;7;25589
+Mikroelektronicka;0;b;8;26764
+Mikroelektronicka;0;b;9;27535
+Mikroelektronicka;0;b;10;28632
+Mikroelektronicka;0;b;11;29466
+Mikroelektronicka;0;b;12;30280
+Mikroelektronicka;0;b;13;31159
+Mikroelektronicka;0;b;14;32128
+Mikroelektronicka;0;b;15;32824
+Mikroelektronicka;0;b;16;33868
+Mikroelektronicka;0;b;17;34708
+Mikroelektronicka;0;b;18;35491
+Mikroelektronicka;0;b;19;36583
+Mikroelektronicka;0;b;20;37360
+Mikroelektronicka;0;b;21;39320
+Mikroelektronicka;0;b;22;40900
+Mikroelektronicka;0;b;23;42672
+Mikroelektronicka;0;b;24;44535
+Mikroelektronicka;0;b;25;46293
+Mikroelektronicka;0;b;26;48069
+Mikroelektronicka;0;b;27;49867
+Mikroelektronicka;0;b;28;51660
+Mikroelektronicka;0;b;29;53520
+Mikroelektronicka;0;b;30;55333
+Mikroelektronicka;0;b;31;56321
+Mikroelektronicka;0;b;32;57442
+Mikroelektronicka;0;b;33;58098
+Mikroelektronicka;0;b;34;59281
+Mikroelektronicka;0;b;35;59997
+Mikroelektronicka;0;b;36;60909
+Mikroelektronicka;0;b;37;61606
+Mikroelektronicka;0;b;38;62703
+Mikroelektronicka;0;b;39;63385
+Mikroelektronicka;0;b;40;64338
+Mikroelektronicka;0;b;41;65160
+Mikroelektronicka;0;b;42;66238
+Mikroelektronicka;0;b;43;67296
+Mikroelektronicka;0;b;44;68100
+Mikroelektronicka;0;b;45;68782
+Mikroelektronicka;0;b;46;69676
+Mikroelektronicka;0;b;47;71460
+Mikroelektronicka;0;b;48;73268
+Mikroelektronicka;0;b;49;75165
+Mikroelektronicka;0;b;50;76860
+Mikroelektronicka;0;b;51;78661
+Mikroelektronicka;0;b;52;80496
+Mikroelektronicka;0;b;53;82260
+Mikroelektronicka;0;b;54;84273
+Na Ventilaci;1;f;0;16149
+Na Ventilaci;1;f;1;17677
+Na Ventilaci;1;f;2;19090
+Na Ventilaci;1;f;3;20630
+Na Ventilaci;1;f;4;22675
+Na Ventilaci;1;f;5;23675
+Na Ventilaci;1;f;6;25005
+Na Ventilaci;1;f;7;26144
+Na Ventilaci;1;f;8;27344
+Na Ventilaci;1;f;9;28960
+Na Ventilaci;1;f;10;30346
+Na Ventilaci;1;f;11;31807
+Na Ventilaci;1;f;12;32517
+Na Ventilaci;1;f;13;33472
+Na Ventilaci;1;f;14;34572
+Na Ventilaci;1;f;15;36593
+Na Ventilaci;1;f;16;37072
+Na Ventilaci;1;f;17;38145
+Na Ventilaci;1;f;18;39293
+Na Ventilaci;1;f;19;40455
+Na Ventilaci;1;f;20;42368
+Na Ventilaci;1;f;21;43435
+Na Ventilaci;1;f;22;44950
+Na Ventilaci;1;f;23;46439
+Na Ventilaci;1;f;24;47850
+Na Ventilaci;1;f;25;49399
+Na Ventilaci;1;f;26;50964
+Na Ventilaci;1;f;27;52504
+Na Ventilaci;1;f;28;54069
+Na Ventilaci;1;f;29;56167
+Na Ventilaci;1;f;30;57065
+Na Ventilaci;1;f;31;58039
+Na Ventilaci;1;f;32;59381
+Na Ventilaci;1;f;33;60740
+Na Ventilaci;1;f;34;61554
+Na Ventilaci;1;f;35;62811
+Na Ventilaci;1;f;36;64123
+Na Ventilaci;1;f;37;65291
+Na Ventilaci;1;f;38;66352
+Na Ventilaci;1;f;39;67655
+Na Ventilaci;1;f;40;68887
+Na Ventilaci;1;f;41;69999
+Na Ventilaci;1;f;42;71158
+Na Ventilaci;1;f;43;72150
+Na Ventilaci;1;f;44;75042
+Na Ventilaci;1;f;45;77324
+Na Ventilaci;1;f;46;79356
+Na Ventilaci;1;f;47;81914
+Na Ventilaci;1;b;0;14937
+Na Ventilaci;1;b;1;16419
+Na Ventilaci;1;b;2;17957
+Na Ventilaci;1;b;3;19381
+Na Ventilaci;1;b;4;20936
+Na Ventilaci;1;b;5;22417
+Na Ventilaci;1;b;6;23600
+Na Ventilaci;1;b;7;24831
+Na Ventilaci;1;b;8;26060
+Na Ventilaci;1;b;9;27304
+Na Ventilaci;1;b;10;28486
+Na Ventilaci;1;b;11;29621
+Na Ventilaci;1;b;12;31019
+Na Ventilaci;1;b;13;32056
+Na Ventilaci;1;b;14;33380
+Na Ventilaci;1;b;15;34502
+Na Ventilaci;1;b;16;35667
+Na Ventilaci;1;b;17;36859
+Na Ventilaci;1;b;18;38013
+Na Ventilaci;1;b;19;39208
+Na Ventilaci;1;b;20;40739
+Na Ventilaci;1;b;21;42211
+Na Ventilaci;1;b;22;43805
+Na Ventilaci;1;b;23;45241
+Na Ventilaci;1;b;24;46716
+Na Ventilaci;1;b;25;48257
+Na Ventilaci;1;b;26;49765
+Na Ventilaci;1;b;27;51226
+Na Ventilaci;1;b;28;52734
+Na Ventilaci;1;b;29;54210
+Na Ventilaci;1;b;30;55413
+Na Ventilaci;1;b;31;56600
+Na Ventilaci;1;b;32;57838
+Na Ventilaci;1;b;33;59025
+Na Ventilaci;1;b;34;60238
+Na Ventilaci;1;b;35;61489
+Na Ventilaci;1;b;36;62665
+Na Ventilaci;1;b;37;63824
+Na Ventilaci;1;b;38;65001
+Na Ventilaci;1;b;39;66278
+Na Ventilaci;1;b;40;67399
+Na Ventilaci;1;b;41;68647
+Na Ventilaci;1;b;42;69814
+Na Ventilaci;1;b;43;71000
+Na Ventilaci;1;b;44;73430
+Na Ventilaci;1;b;45;75845
+Na Ventilaci;1;b;46;78249
+Na Ventilaci;1;b;47;80663
+Navratilova;2;f;0;17370
+Navratilova;2;f;1;19770
+Navratilova;2;f;2;22184
+Navratilova;2;f;3;23404
+Navratilova;2;f;4;24618
+Navratilova;2;f;5;25853
+Navratilova;2;f;6;27016
+Navratilova;2;f;7;28170
+Navratilova;2;f;8;29400
+Navratilova;2;f;9;30580
+Navratilova;2;f;10;31800
+Navratilova;2;f;11;33014
+Navratilova;2;f;12;34223
+Navratilova;2;f;13;35404
+Navratilova;2;f;14;37785
+Navratilova;2;f;15;40239
+Navratilova;2;f;16;42570
+Navratilova;2;f;17;45013
+Navratilova;2;f;18;47445
+Navratilova;2;f;19;49786
+Navratilova;2;f;20;52180
+Navratilova;2;f;21;54570
+Navratilova;2;f;22;57007
+Navratilova;2;f;23;58170
+Navratilova;2;f;24;59436
+Navratilova;2;f;25;60644
+Navratilova;2;f;26;61841
+Navratilova;2;f;27;63023
+Navratilova;2;f;28;64170
+Navratilova;2;f;29;65391
+Navratilova;2;f;30;66582
+Navratilova;2;f;31;67781
+Navratilova;2;f;32;69007
+Navratilova;2;f;33;70218
+Navratilova;2;f;34;71413
+Navratilova;2;f;35;72631
+Navratilova;2;f;36;73834
+Navratilova;2;f;37;75005
+Navratilova;2;f;38;77370
+Navratilova;2;f;39;79805
+Navratilova;2;f;40;82220
+Navratilova;2;b;0;19016
+Navratilova;2;b;1;21351
+Navratilova;2;b;2;23768
+Navratilova;2;b;3;24825
+Navratilova;2;b;4;26035
+Navratilova;2;b;5;27309
+Navratilova;2;b;6;28490
+Navratilova;2;b;7;29798
+Navratilova;2;b;8;30980
+Navratilova;2;b;9;32173
+Navratilova;2;b;10;33210
+Navratilova;2;b;11;34574
+Navratilova;2;b;12;35785
+Navratilova;2;b;13;36894
+Navratilova;2;b;14;39288
+Navratilova;2;b;15;41715
+Navratilova;2;b;16;44095
+Navratilova;2;b;17;46515
+Navratilova;2;b;18;48847
+Navratilova;2;b;19;51347
+Navratilova;2;b;20;53610
+Navratilova;2;b;21;56156
+Navratilova;2;b;22;58570
+Navratilova;2;b;23;59673
+Navratilova;2;b;24;60929
+Navratilova;2;b;25;62097
+Navratilova;2;b;26;63303
+Navratilova;2;b;27;64410
+Navratilova;2;b;28;65806
+Navratilova;2;b;29;66958
+Navratilova;2;b;30;68068
+Navratilova;2;b;31;69326
+Navratilova;2;b;32;70604
+Navratilova;2;b;33;71610
+Navratilova;2;b;34;72948
+Navratilova;2;b;35;74170
+Navratilova;2;b;36;75363
+Navratilova;2;b;37;76510
+Navratilova;2;b;38;78958
+Navratilova;2;b;39;81322
+Navratilova;2;b;40;83622
+Nentvichova;2;f;0;17505
+Nentvichova;2;f;1;19935
+Nentvichova;2;f;2;22343
+Nentvichova;2;f;3;23567
+Nentvichova;2;f;4;24766
+Nentvichova;2;f;5;26007
+Nentvichova;2;f;6;27159
+Nentvichova;2;f;7;28305
+Nentvichova;2;f;8;29557
+Nentvichova;2;f;9;30724
+Nentvichova;2;f;10;31976
+Nentvichova;2;f;11;33153
+Nentvichova;2;f;12;34372
+Nentvichova;2;f;13;35579
+Nentvichova;2;f;14;37949
+Nentvichova;2;f;15;40394
+Nentvichova;2;f;16;42705
+Nentvichova;2;f;17;45152
+Nentvichova;2;f;18;47599
+Nentvichova;2;f;19;49928
+Nentvichova;2;f;20;52339
+Nentvichova;2;f;21;54752
+Nentvichova;2;f;22;57138
+Nentvichova;2;f;23;58305
+Nentvichova;2;f;24;59618
+Nentvichova;2;f;25;60837
+Nentvichova;2;f;26;61977
+Nentvichova;2;f;27;63204
+Nentvichova;2;f;28;64313
+Nentvichova;2;f;29;65540
+Nentvichova;2;f;30;66705
+Nentvichova;2;f;31;67925
+Nentvichova;2;f;32;69173
+Nentvichova;2;f;33;70362
+Nentvichova;2;f;34;71564
+Nentvichova;2;f;35;72807
+Nentvichova;2;f;36;74013
+Nentvichova;2;f;37;75134
+Nentvichova;2;f;38;77505
+Nentvichova;2;f;39;79938
+Nentvichova;2;f;40;82397
+Nentvichova;2;b;0;18856
+Nentvichova;2;b;1;21191
+Nentvichova;2;b;2;23605
+Nentvichova;2;b;3;24689
+Nentvichova;2;b;4;25909
+Nentvichova;2;b;5;27154
+Nentvichova;2;b;6;28317
+Nentvichova;2;b;7;29613
+Nentvichova;2;b;8;30832
+Nentvichova;2;b;9;32011
+Nentvichova;2;b;10;33075
+Nentvichova;2;b;11;34403
+Nentvichova;2;b;12;35606
+Nentvichova;2;b;13;36748
+Nentvichova;2;b;14;39164
+Nentvichova;2;b;15;41571
+Nentvichova;2;b;16;43930
+Nentvichova;2;b;17;46370
+Nentvichova;2;b;18;48725
+Nentvichova;2;b;19;51188
+Nentvichova;2;b;20;53480
+Nentvichova;2;b;21;56011
+Nentvichova;2;b;22;58418
+Nentvichova;2;b;23;59539
+Nentvichova;2;b;24;60779
+Nentvichova;2;b;25;61955
+Nentvichova;2;b;26;63167
+Nentvichova;2;b;27;64275
+Nentvichova;2;b;28;65639
+Nentvichova;2;b;29;66800
+Nentvichova;2;b;30;67941
+Nentvichova;2;b;31;69171
+Nentvichova;2;b;32;70431
+Nentvichova;2;b;33;71475
+Nentvichova;2;b;34;72789
+Nentvichova;2;b;35;73983
+Nentvichova;2;b;36;75225
+Nentvichova;2;b;37;76394
+Nentvichova;2;b;38;78803
+Nentvichova;2;b;39;81184
+Nentvichova;2;b;40;83475
+Nosterova;0;f;0;15459
+Nosterova;0;f;1;17223
+Nosterova;0;f;2;19091
+Nosterova;0;f;3;20958
+Nosterova;0;f;4;22644
+Nosterova;0;f;5;23813
+Nosterova;0;f;6;24410
+Nosterova;0;f;7;25323
+Nosterova;0;f;8;26357
+Nosterova;0;f;9;27291
+Nosterova;0;f;10;28249
+Nosterova;0;f;11;28987
+Nosterova;0;f;12;30161
+Nosterova;0;f;13;30910
+Nosterova;0;f;14;31784
+Nosterova;0;f;15;32793
+Nosterova;0;f;16;33911
+Nosterova;0;f;17;34750
+Nosterova;0;f;18;35334
+Nosterova;0;f;19;36268
+Nosterova;0;f;20;37078
+Nosterova;0;f;21;38810
+Nosterova;0;f;22;40655
+Nosterova;0;f;23;42426
+Nosterova;0;f;24;44221
+Nosterova;0;f;25;46010
+Nosterova;0;f;26;48095
+Nosterova;0;f;27;49610
+Nosterova;0;f;28;51698
+Nosterova;0;f;29;53253
+Nosterova;0;f;30;55137
+Nosterova;0;f;31;55993
+Nosterova;0;f;32;56969
+Nosterova;0;f;33;57795
+Nosterova;0;f;34;58795
+Nosterova;0;f;35;59510
+Nosterova;0;f;36;60617
+Nosterova;0;f;37;61497
+Nosterova;0;f;38;62578
+Nosterova;0;f;39;63658
+Nosterova;0;f;40;64240
+Nosterova;0;f;41;65028
+Nosterova;0;f;42;65941
+Nosterova;0;f;43;66726
+Nosterova;0;f;44;67628
+Nosterova;0;f;45;68610
+Nosterova;0;f;46;69416
+Nosterova;0;f;47;71294
+Nosterova;0;f;48;73123
+Nosterova;0;f;49;75057
+Nosterova;0;f;50;76968
+Nosterova;0;f;51;78449
+Nosterova;0;f;52;80210
+Nosterova;0;f;53;82048
+Nosterova;0;f;54;83823
+Nosterova;0;b;0;15410
+Nosterova;0;b;1;17222
+Nosterova;0;b;2;19013
+Nosterova;0;b;3;20832
+Nosterova;0;b;4;22610
+Nosterova;0;b;5;23531
+Nosterova;0;b;6;24474
+Nosterova;0;b;7;25317
+Nosterova;0;b;8;26274
+Nosterova;0;b;9;27202
+Nosterova;0;b;10;28231
+Nosterova;0;b;11;29039
+Nosterova;0;b;12;29879
+Nosterova;0;b;13;30888
+Nosterova;0;b;14;31744
+Nosterova;0;b;15;32594
+Nosterova;0;b;16;33522
+Nosterova;0;b;17;34403
+Nosterova;0;b;18;35230
+Nosterova;0;b;19;36266
+Nosterova;0;b;20;37053
+Nosterova;0;b;21;38971
+Nosterova;0;b;22;40638
+Nosterova;0;b;23;42422
+Nosterova;0;b;24;44257
+Nosterova;0;b;25;46015
+Nosterova;0;b;26;47816
+Nosterova;0;b;27;49636
+Nosterova;0;b;28;51410
+Nosterova;0;b;29;53276
+Nosterova;0;b;30;55022
+Nosterova;0;b;31;55997
+Nosterova;0;b;32;57085
+Nosterova;0;b;33;57784
+Nosterova;0;b;34;58860
+Nosterova;0;b;35;59574
+Nosterova;0;b;36;60474
+Nosterova;0;b;37;61423
+Nosterova;0;b;38;62359
+Nosterova;0;b;39;63157
+Nosterova;0;b;40;64026
+Nosterova;0;b;41;64910
+Nosterova;0;b;42;65928
+Nosterova;0;b;43;67004
+Nosterova;0;b;44;67755
+Nosterova;0;b;45;68512
+Nosterova;0;b;46;69424
+Nosterova;0;b;47;71216
+Nosterova;0;b;48;73010
+Nosterova;0;b;49;74890
+Nosterova;0;b;50;76610
+Nosterova;0;b;51;78410
+Nosterova;0;b;52;80210
+Nosterova;0;b;53;82019
+Nosterova;0;b;54;83927
+Ochrannych stitu;1;f;0;15380
+Ochrannych stitu;1;f;1;16951
+Ochrannych stitu;1;f;2;18316
+Ochrannych stitu;1;f;3;19862
+Ochrannych stitu;1;f;4;21633
+Ochrannych stitu;1;f;5;22824
+Ochrannych stitu;1;f;6;24211
+Ochrannych stitu;1;f;7;25288
+Ochrannych stitu;1;f;8;26505
+Ochrannych stitu;1;f;9;27907
+Ochrannych stitu;1;f;10;29362
+Ochrannych stitu;1;f;11;30658
+Ochrannych stitu;1;f;12;31737
+Ochrannych stitu;1;f;13;32619
+Ochrannych stitu;1;f;14;33777
+Ochrannych stitu;1;f;15;35613
+Ochrannych stitu;1;f;16;36184
+Ochrannych stitu;1;f;17;37289
+Ochrannych stitu;1;f;18;38483
+Ochrannych stitu;1;f;19;39642
+Ochrannych stitu;1;f;20;41399
+Ochrannych stitu;1;f;21;42625
+Ochrannych stitu;1;f;22;44131
+Ochrannych stitu;1;f;23;45630
+Ochrannych stitu;1;f;24;47131
+Ochrannych stitu;1;f;25;48631
+Ochrannych stitu;1;f;26;50245
+Ochrannych stitu;1;f;27;51678
+Ochrannych stitu;1;f;28;53175
+Ochrannych stitu;1;f;29;55155
+Ochrannych stitu;1;f;30;56151
+Ochrannych stitu;1;f;31;57175
+Ochrannych stitu;1;f;32;58475
+Ochrannych stitu;1;f;33;59807
+Ochrannych stitu;1;f;34;60685
+Ochrannych stitu;1;f;35;61903
+Ochrannych stitu;1;f;36;63208
+Ochrannych stitu;1;f;37;64380
+Ochrannych stitu;1;f;38;65534
+Ochrannych stitu;1;f;39;66803
+Ochrannych stitu;1;f;40;67935
+Ochrannych stitu;1;f;41;69276
+Ochrannych stitu;1;f;42;70277
+Ochrannych stitu;1;f;43;71418
+Ochrannych stitu;1;f;44;74062
+Ochrannych stitu;1;f;45;76339
+Ochrannych stitu;1;f;46;78636
+Ochrannych stitu;1;f;47;81062
+Ochrannych stitu;1;b;0;15759
+Ochrannych stitu;1;b;1;17245
+Ochrannych stitu;1;b;2;18933
+Ochrannych stitu;1;b;3;20229
+Ochrannych stitu;1;b;4;21836
+Ochrannych stitu;1;b;5;23213
+Ochrannych stitu;1;b;6;24466
+Ochrannych stitu;1;b;7;25712
+Ochrannych stitu;1;b;8;26823
+Ochrannych stitu;1;b;9;28553
+Ochrannych stitu;1;b;10;29523
+Ochrannych stitu;1;b;11;30813
+Ochrannych stitu;1;b;12;32285
+Ochrannych stitu;1;b;13;33179
+Ochrannych stitu;1;b;14;34446
+Ochrannych stitu;1;b;15;35396
+Ochrannych stitu;1;b;16;36638
+Ochrannych stitu;1;b;17;37674
+Ochrannych stitu;1;b;18;38834
+Ochrannych stitu;1;b;19;40075
+Ochrannych stitu;1;b;20;41525
+Ochrannych stitu;1;b;21;43086
+Ochrannych stitu;1;b;22;44761
+Ochrannych stitu;1;b;23;46032
+Ochrannych stitu;1;b;24;47461
+Ochrannych stitu;1;b;25;49033
+Ochrannych stitu;1;b;26;50677
+Ochrannych stitu;1;b;27;52066
+Ochrannych stitu;1;b;28;53466
+Ochrannych stitu;1;b;29;55041
+Ochrannych stitu;1;b;30;56318
+Ochrannych stitu;1;b;31;57353
+Ochrannych stitu;1;b;32;58719
+Ochrannych stitu;1;b;33;59937
+Ochrannych stitu;1;b;34;61195
+Ochrannych stitu;1;b;35;62548
+Ochrannych stitu;1;b;36;63544
+Ochrannych stitu;1;b;37;64737
+Ochrannych stitu;1;b;38;65800
+Ochrannych stitu;1;b;39;67278
+Ochrannych stitu;1;b;40;68187
+Ochrannych stitu;1;b;41;69444
+Ochrannych stitu;1;b;42;70606
+Ochrannych stitu;1;b;43;71769
+Ochrannych stitu;1;b;44;74266
+Ochrannych stitu;1;b;45;76727
+Ochrannych stitu;1;b;46;79061
+Ochrannych stitu;1;b;47;81538
+Pani Vyborne;2;f;0;18045
+Pani Vyborne;2;f;1;20477
+Pani Vyborne;2;f;2;22915
+Pani Vyborne;2;f;3;24191
+Pani Vyborne;2;f;4;25411
+Pani Vyborne;2;f;5;26663
+Pani Vyborne;2;f;6;27816
+Pani Vyborne;2;f;7;28845
+Pani Vyborne;2;f;8;30185
+Pani Vyborne;2;f;9;31317
+Pani Vyborne;2;f;10;32568
+Pani Vyborne;2;f;11;33764
+Pani Vyborne;2;f;12;34958
+Pani Vyborne;2;f;13;36190
+Pani Vyborne;2;f;14;38524
+Pani Vyborne;2;f;15;41069
+Pani Vyborne;2;f;16;43267
+Pani Vyborne;2;f;17;45755
+Pani Vyborne;2;f;18;48249
+Pani Vyborne;2;f;19;50479
+Pani Vyborne;2;f;20;52947
+Pani Vyborne;2;f;21;55411
+Pani Vyborne;2;f;22;57742
+Pani Vyborne;2;f;23;58845
+Pani Vyborne;2;f;24;60245
+Pani Vyborne;2;f;25;61461
+Pani Vyborne;2;f;26;62570
+Pani Vyborne;2;f;27;63838
+Pani Vyborne;2;f;28;64893
+Pani Vyborne;2;f;29;66180
+Pani Vyborne;2;f;30;67248
+Pani Vyborne;2;f;31;68510
+Pani Vyborne;2;f;32;69828
+Pani Vyborne;2;f;33;70979
+Pani Vyborne;2;f;34;72199
+Pani Vyborne;2;f;35;73495
+Pani Vyborne;2;f;36;74641
+Pani Vyborne;2;f;37;75730
+Pani Vyborne;2;f;38;78054
+Pani Vyborne;2;f;39;80540
+Pani Vyborne;2;f;40;82944
+Pani Vyborne;2;b;0;18194
+Pani Vyborne;2;b;1;20553
+Pani Vyborne;2;b;2;22956
+Pani Vyborne;2;b;3;24135
+Pani Vyborne;2;b;4;25335
+Pani Vyborne;2;b;5;26554
+Pani Vyborne;2;b;6;27752
+Pani Vyborne;2;b;7;28941
+Pani Vyborne;2;b;8;30161
+Pani Vyborne;2;b;9;31378
+Pani Vyborne;2;b;10;32537
+Pani Vyborne;2;b;11;33756
+Pani Vyborne;2;b;12;34991
+Pani Vyborne;2;b;13;36155
+Pani Vyborne;2;b;14;38560
+Pani Vyborne;2;b;15;40950
+Pani Vyborne;2;b;16;43344
+Pani Vyborne;2;b;17;45767
+Pani Vyborne;2;b;18;48140
+Pani Vyborne;2;b;19;50570
+Pani Vyborne;2;b;20;52937
+Pani Vyborne;2;b;21;55335
+Pani Vyborne;2;b;22;57760
+Pani Vyborne;2;b;23;58951
+Pani Vyborne;2;b;24;60162
+Pani Vyborne;2;b;25;61335
+Pani Vyborne;2;b;26;62546
+Pani Vyborne;2;b;27;63735
+Pani Vyborne;2;b;28;64979
+Pani Vyborne;2;b;29;66148
+Pani Vyborne;2;b;30;67335
+Pani Vyborne;2;b;31;68565
+Pani Vyborne;2;b;32;69758
+Pani Vyborne;2;b;33;70952
+Pani Vyborne;2;b;34;72135
+Pani Vyborne;2;b;35;73371
+Pani Vyborne;2;b;36;74559
+Pani Vyborne;2;b;37;75736
+Pani Vyborne;2;b;38;78173
+Pani Vyborne;2;b;39;80564
+Pani Vyborne;2;b;40;82935
+Papirenske zavody;3;f;0;22738
+Papirenske zavody;3;f;1;24276
+Papirenske zavody;3;f;2;25938
+Papirenske zavody;3;f;3;27301
+Papirenske zavody;3;f;4;28710
+Papirenske zavody;3;f;5;30371
+Papirenske zavody;3;f;6;31828
+Papirenske zavody;3;f;7;33286
+Papirenske zavody;3;f;8;34817
+Papirenske zavody;3;f;9;36261
+Papirenske zavody;3;f;10;37922
+Papirenske zavody;3;f;11;39285
+Papirenske zavody;3;f;12;40891
+Papirenske zavody;3;f;13;42216
+Papirenske zavody;3;f;14;43839
+Papirenske zavody;3;f;15;45271
+Papirenske zavody;3;f;16;46845
+Papirenske zavody;3;f;17;48404
+Papirenske zavody;3;f;18;49721
+Papirenske zavody;3;f;19;51382
+Papirenske zavody;3;f;20;52713
+Papirenske zavody;3;f;21;54306
+Papirenske zavody;3;f;22;55948
+Papirenske zavody;3;f;23;57210
+Papirenske zavody;3;f;24;58820
+Papirenske zavody;3;f;25;60411
+Papirenske zavody;3;f;26;61834
+Papirenske zavody;3;f;27;63248
+Papirenske zavody;3;f;28;64800
+Papirenske zavody;3;f;29;66256
+Papirenske zavody;3;f;30;67793
+Papirenske zavody;3;f;31;69423
+Papirenske zavody;3;f;32;70856
+Papirenske zavody;3;f;33;72263
+Papirenske zavody;3;f;34;73710
+Papirenske zavody;3;f;35;75210
+Papirenske zavody;3;f;36;76823
+Papirenske zavody;3;f;37;78278
+Papirenske zavody;3;f;38;79904
+Papirenske zavody;3;b;0;22350
+Papirenske zavody;3;b;1;23868
+Papirenske zavody;3;b;2;25351
+Papirenske zavody;3;b;3;26836
+Papirenske zavody;3;b;4;28346
+Papirenske zavody;3;b;5;29834
+Papirenske zavody;3;b;6;31337
+Papirenske zavody;3;b;7;32852
+Papirenske zavody;3;b;8;34335
+Papirenske zavody;3;b;9;35849
+Papirenske zavody;3;b;10;37361
+Papirenske zavody;3;b;11;38841
+Papirenske zavody;3;b;12;40375
+Papirenske zavody;3;b;13;41859
+Papirenske zavody;3;b;14;43335
+Papirenske zavody;3;b;15;44850
+Papirenske zavody;3;b;16;46380
+Papirenske zavody;3;b;17;47835
+Papirenske zavody;3;b;18;49335
+Papirenske zavody;3;b;19;50869
+Papirenske zavody;3;b;20;52356
+Papirenske zavody;3;b;21;53843
+Papirenske zavody;3;b;22;55335
+Papirenske zavody;3;b;23;56835
+Papirenske zavody;3;b;24;58337
+Papirenske zavody;3;b;25;59849
+Papirenske zavody;3;b;26;61391
+Papirenske zavody;3;b;27;62835
+Papirenske zavody;3;b;28;64354
+Papirenske zavody;3;b;29;65847
+Papirenske zavody;3;b;30;67365
+Papirenske zavody;3;b;31;68835
+Papirenske zavody;3;b;32;70341
+Papirenske zavody;3;b;33;71862
+Papirenske zavody;3;b;34;73351
+Papirenske zavody;3;b;35;74867
+Papirenske zavody;3;b;36;76358
+Papirenske zavody;3;b;37;77841
+Papirenske zavody;3;b;38;79357
+Paterova;0;f;0;15364
+Paterova;0;f;1;17158
+Paterova;0;f;2;19043
+Paterova;0;f;3;20868
+Paterova;0;f;4;22563
+Paterova;0;f;5;23693
+Paterova;0;f;6;24342
+Paterova;0;f;7;25266
+Paterova;0;f;8;26288
+Paterova;0;f;9;27200
+Paterova;0;f;10;28197
+Paterova;0;f;11;28948
+Paterova;0;f;12;30022
+Paterova;0;f;13;30832
+Paterova;0;f;14;31726
+Paterova;0;f;15;32751
+Paterova;0;f;16;33757
+Paterova;0;f;17;34706
+Paterova;0;f;18;35241
+Paterova;0;f;19;36157
+Paterova;0;f;20;36991
+Paterova;0;f;21;38763
+Paterova;0;f;22;40571
+Paterova;0;f;23;42336
+Paterova;0;f;24;44132
+Paterova;0;f;25;45930
+Paterova;0;f;26;47993
+Paterova;0;f;27;49554
+Paterova;0;f;28;51600
+Paterova;0;f;29;53198
+Paterova;0;f;30;55024
+Paterova;0;f;31;55900
+Paterova;0;f;32;56872
+Paterova;0;f;33;57737
+Paterova;0;f;34;58709
+Paterova;0;f;35;59444
+Paterova;0;f;36;60472
+Paterova;0;f;37;61382
+Paterova;0;f;38;62490
+Paterova;0;f;39;63472
+Paterova;0;f;40;64141
+Paterova;0;f;41;64984
+Paterova;0;f;42;65853
+Paterova;0;f;43;66635
+Paterova;0;f;44;67576
+Paterova;0;f;45;68536
+Paterova;0;f;46;69373
+Paterova;0;f;47;71225
+Paterova;0;f;48;73055
+Paterova;0;f;49;74983
+Paterova;0;f;50;76900
+Paterova;0;f;51;78363
+Paterova;0;f;52;80142
+Paterova;0;f;53;81962
+Paterova;0;f;54;83737
+Paterova;0;b;0;15490
+Paterova;0;b;1;17290
+Paterova;0;b;2;19090
+Paterova;0;b;3;20917
+Paterova;0;b;4;22690
+Paterova;0;b;5;23598
+Paterova;0;b;6;24553
+Paterova;0;b;7;25390
+Paterova;0;b;8;26419
+Paterova;0;b;9;27323
+Paterova;0;b;10;28307
+Paterova;0;b;11;29083
+Paterova;0;b;12;30003
+Paterova;0;b;13;30947
+Paterova;0;b;14;31837
+Paterova;0;b;15;32688
+Paterova;0;b;16;33589
+Paterova;0;b;17;34509
+Paterova;0;b;18;35296
+Paterova;0;b;19;36369
+Paterova;0;b;20;37149
+Paterova;0;b;21;39076
+Paterova;0;b;22;40720
+Paterova;0;b;23;42490
+Paterova;0;b;24;44330
+Paterova;0;b;25;46109
+Paterova;0;b;26;47890
+Paterova;0;b;27;49690
+Paterova;0;b;28;51490
+Paterova;0;b;29;53340
+Paterova;0;b;30;55117
+Paterova;0;b;31;56079
+Paterova;0;b;32;57182
+Paterova;0;b;33;57877
+Paterova;0;b;34;58983
+Paterova;0;b;35;59735
+Paterova;0;b;36;60565
+Paterova;0;b;37;61499
+Paterova;0;b;38;62472
+Paterova;0;b;39;63224
+Paterova;0;b;40;64108
+Paterova;0;b;41;64998
+Paterova;0;b;42;65995
+Paterova;0;b;43;67080
+Paterova;0;b;44;67878
+Paterova;0;b;45;68590
+Paterova;0;b;46;69490
+Paterova;0;b;47;71297
+Paterova;0;b;48;73090
+Paterova;0;b;49;74987
+Paterova;0;b;50;76690
+Paterova;0;b;51;78490
+Paterova;0;b;52;80290
+Paterova;0;b;53;82090
+Paterova;0;b;54;84018
+Patova trida;2;f;0;17775
+Patova trida;2;f;1;20178
+Patova trida;2;f;2;22618
+Patova trida;2;f;3;23872
+Patova trida;2;f;4;25071
+Patova trida;2;f;5;26326
+Patova trida;2;f;6;27487
+Patova trida;2;f;7;28583
+Patova trida;2;f;8;29869
+Patova trida;2;f;9;31015
+Patova trida;2;f;10;32281
+Patova trida;2;f;11;33471
+Patova trida;2;f;12;34680
+Patova trida;2;f;13;35884
+Patova trida;2;f;14;38216
+Patova trida;2;f;15;40696
+Patova trida;2;f;16;42975
+Patova trida;2;f;17;45468
+Patova trida;2;f;18;47918
+Patova trida;2;f;19;50186
+Patova trida;2;f;20;52665
+Patova trida;2;f;21;55096
+Patova trida;2;f;22;57429
+Patova trida;2;f;23;58575
+Patova trida;2;f;24;59908
+Patova trida;2;f;25;61142
+Patova trida;2;f;26;62264
+Patova trida;2;f;27;63488
+Patova trida;2;f;28;64599
+Patova trida;2;f;29;65832
+Patova trida;2;f;30;66975
+Patova trida;2;f;31;68180
+Patova trida;2;f;32;69509
+Patova trida;2;f;33;70706
+Patova trida;2;f;34;71865
+Patova trida;2;f;35;73132
+Patova trida;2;f;36;74318
+Patova trida;2;f;37;75432
+Patova trida;2;f;38;77775
+Patova trida;2;f;39;80234
+Patova trida;2;f;40;82659
+Patova trida;2;b;0;18519
+Patova trida;2;b;1;20855
+Patova trida;2;b;2;23308
+Patova trida;2;b;3;24405
+Patova trida;2;b;4;25626
+Patova trida;2;b;5;26833
+Patova trida;2;b;6;28058
+Patova trida;2;b;7;29272
+Patova trida;2;b;8;30493
+Patova trida;2;b;9;31687
+Patova trida;2;b;10;32805
+Patova trida;2;b;11;34086
+Patova trida;2;b;12;35303
+Patova trida;2;b;13;36444
+Patova trida;2;b;14;38875
+Patova trida;2;b;15;41264
+Patova trida;2;b;16;43624
+Patova trida;2;b;17;46081
+Patova trida;2;b;18;48435
+Patova trida;2;b;19;50877
+Patova trida;2;b;20;53205
+Patova trida;2;b;21;55634
+Patova trida;2;b;22;58084
+Patova trida;2;b;23;59255
+Patova trida;2;b;24;60464
+Patova trida;2;b;25;61631
+Patova trida;2;b;26;62851
+Patova trida;2;b;27;64005
+Patova trida;2;b;28;65322
+Patova trida;2;b;29;66477
+Patova trida;2;b;30;67647
+Patova trida;2;b;31;68858
+Patova trida;2;b;32;70091
+Patova trida;2;b;33;71205
+Patova trida;2;b;34;72453
+Patova trida;2;b;35;73682
+Patova trida;2;b;36;74915
+Patova trida;2;b;37;76058
+Patova trida;2;b;38;78481
+Patova trida;2;b;39;80869
+Patova trida;2;b;40;83205
+Petrackovo namesti;1;f;0;15228
+Petrackovo namesti;1;f;1;16789
+Petrackovo namesti;1;f;2;18201
+Petrackovo namesti;1;f;3;19727
+Petrackovo namesti;1;f;4;21448
+Petrackovo namesti;1;f;5;22686
+Petrackovo namesti;1;f;6;24064
+Petrackovo namesti;1;f;7;25112
+Petrackovo namesti;1;f;8;26345
+Petrackovo namesti;1;f;9;27710
+Petrackovo namesti;1;f;10;29095
+Petrackovo namesti;1;f;11;30479
+Petrackovo namesti;1;f;12;31453
+Petrackovo namesti;1;f;13;32343
+Petrackovo namesti;1;f;14;33618
+Petrackovo namesti;1;f;15;35343
+Petrackovo namesti;1;f;16;35973
+Petrackovo namesti;1;f;17;37114
+Petrackovo namesti;1;f;18;38336
+Petrackovo namesti;1;f;19;39501
+Petrackovo namesti;1;f;20;41217
+Petrackovo namesti;1;f;21;42483
+Petrackovo namesti;1;f;22;43983
+Petrackovo namesti;1;f;23;45495
+Petrackovo namesti;1;f;24;46991
+Petrackovo namesti;1;f;25;48489
+Petrackovo namesti;1;f;26;50111
+Petrackovo namesti;1;f;27;51536
+Petrackovo namesti;1;f;28;53028
+Petrackovo namesti;1;f;29;54903
+Petrackovo namesti;1;f;30;55887
+Petrackovo namesti;1;f;31;56993
+Petrackovo namesti;1;f;32;58200
+Petrackovo namesti;1;f;33;59586
+Petrackovo namesti;1;f;34;60481
+Petrackovo namesti;1;f;35;61788
+Petrackovo namesti;1;f;36;62974
+Petrackovo namesti;1;f;37;64155
+Petrackovo namesti;1;f;38;65335
+Petrackovo namesti;1;f;39;66582
+Petrackovo namesti;1;f;40;67769
+Petrackovo namesti;1;f;41;69096
+Petrackovo namesti;1;f;42;70144
+Petrackovo namesti;1;f;43;71291
+Petrackovo namesti;1;f;44;73885
+Petrackovo namesti;1;f;45;76176
+Petrackovo namesti;1;f;46;78501
+Petrackovo namesti;1;f;47;80931
+Petrackovo namesti;1;b;0;15850
+Petrackovo namesti;1;b;1;17361
+Petrackovo namesti;1;b;2;19077
+Petrackovo namesti;1;b;3;20352
+Petrackovo namesti;1;b;4;21967
+Petrackovo namesti;1;b;5;23350
+Petrackovo namesti;1;b;6;24606
+Petrackovo namesti;1;b;7;25846
+Petrackovo namesti;1;b;8;26877
+Petrackovo namesti;1;b;9;28744
+Petrackovo namesti;1;b;10;29727
+Petrackovo namesti;1;b;11;31113
+Petrackovo namesti;1;b;12;32508
+Petrackovo namesti;1;b;13;33299
+Petrackovo namesti;1;b;14;34631
+Petrackovo namesti;1;b;15;35555
+Petrackovo namesti;1;b;16;36751
+Petrackovo namesti;1;b;17;37801
+Petrackovo namesti;1;b;18;38951
+Petrackovo namesti;1;b;19;40135
+Petrackovo namesti;1;b;20;41585
+Petrackovo namesti;1;b;21;43217
+Petrackovo namesti;1;b;22;44838
+Petrackovo namesti;1;b;23;46161
+Petrackovo namesti;1;b;24;47586
+Petrackovo namesti;1;b;25;49182
+Petrackovo namesti;1;b;26;50816
+Petrackovo namesti;1;b;27;52171
+Petrackovo namesti;1;b;28;53600
+Petrackovo namesti;1;b;29;55152
+Petrackovo namesti;1;b;30;56446
+Petrackovo namesti;1;b;31;57470
+Petrackovo namesti;1;b;32;58906
+Petrackovo namesti;1;b;33;60059
+Petrackovo namesti;1;b;34;61323
+Petrackovo namesti;1;b;35;62719
+Petrackovo namesti;1;b;36;63746
+Petrackovo namesti;1;b;37;64814
+Petrackovo namesti;1;b;38;65962
+Petrackovo namesti;1;b;39;67432
+Petrackovo namesti;1;b;40;68356
+Petrackovo namesti;1;b;41;69513
+Petrackovo namesti;1;b;42;70732
+Petrackovo namesti;1;b;43;71870
+Petrackovo namesti;1;b;44;74326
+Petrackovo namesti;1;b;45;76790
+Petrackovo namesti;1;b;46;79211
+Petrackovo namesti;1;b;47;81688
+Petrackovo namesti;2;f;0;17910
+Petrackovo namesti;2;f;1;20333
+Petrackovo namesti;2;f;2;22752
+Petrackovo namesti;2;f;3;24036
+Petrackovo namesti;2;f;4;25262
+Petrackovo namesti;2;f;5;26484
+Petrackovo namesti;2;f;6;27655
+Petrackovo namesti;2;f;7;28710
+Petrackovo namesti;2;f;8;30024
+Petrackovo namesti;2;f;9;31164
+Petrackovo namesti;2;f;10;32434
+Petrackovo namesti;2;f;11;33612
+Petrackovo namesti;2;f;12;34820
+Petrackovo namesti;2;f;13;36049
+Petrackovo namesti;2;f;14;38367
+Petrackovo namesti;2;f;15;40901
+Petrackovo namesti;2;f;16;43110
+Petrackovo namesti;2;f;17;45619
+Petrackovo namesti;2;f;18;48081
+Petrackovo namesti;2;f;19;50321
+Petrackovo namesti;2;f;20;52784
+Petrackovo namesti;2;f;21;55270
+Petrackovo namesti;2;f;22;57591
+Petrackovo namesti;2;f;23;58727
+Petrackovo namesti;2;f;24;60073
+Petrackovo namesti;2;f;25;61305
+Petrackovo namesti;2;f;26;62421
+Petrackovo namesti;2;f;27;63661
+Petrackovo namesti;2;f;28;64758
+Petrackovo namesti;2;f;29;66030
+Petrackovo namesti;2;f;30;67118
+Petrackovo namesti;2;f;31;68332
+Petrackovo namesti;2;f;32;69680
+Petrackovo namesti;2;f;33;70828
+Petrackovo namesti;2;f;34;72035
+Petrackovo namesti;2;f;35;73306
+Petrackovo namesti;2;f;36;74469
+Petrackovo namesti;2;f;37;75604
+Petrackovo namesti;2;f;38;77910
+Petrackovo namesti;2;f;39;80401
+Petrackovo namesti;2;f;40;82775
+Petrackovo namesti;2;b;0;18349
+Petrackovo namesti;2;b;1;20701
+Petrackovo namesti;2;b;2;23125
+Petrackovo namesti;2;b;3;24270
+Petrackovo namesti;2;b;4;25479
+Petrackovo namesti;2;b;5;26698
+Petrackovo namesti;2;b;6;27902
+Petrackovo namesti;2;b;7;29098
+Petrackovo namesti;2;b;8;30327
+Petrackovo namesti;2;b;9;31530
+Petrackovo namesti;2;b;10;32670
+Petrackovo namesti;2;b;11;33930
+Petrackovo namesti;2;b;12;35151
+Petrackovo namesti;2;b;13;36282
+Petrackovo namesti;2;b;14;38728
+Petrackovo namesti;2;b;15;41105
+Petrackovo namesti;2;b;16;43479
+Petrackovo namesti;2;b;17;45923
+Petrackovo namesti;2;b;18;48278
+Petrackovo namesti;2;b;19;50729
+Petrackovo namesti;2;b;20;53070
+Petrackovo namesti;2;b;21;55481
+Petrackovo namesti;2;b;22;57907
+Petrackovo namesti;2;b;23;59129
+Petrackovo namesti;2;b;24;60307
+Petrackovo namesti;2;b;25;61495
+Petrackovo namesti;2;b;26;62702
+Petrackovo namesti;2;b;27;63870
+Petrackovo namesti;2;b;28;65142
+Petrackovo namesti;2;b;29;66322
+Petrackovo namesti;2;b;30;67500
+Petrackovo namesti;2;b;31;68708
+Petrackovo namesti;2;b;32;69930
+Petrackovo namesti;2;b;33;71070
+Petrackovo namesti;2;b;34;72300
+Petrackovo namesti;2;b;35;73544
+Petrackovo namesti;2;b;36;74735
+Petrackovo namesti;2;b;37;75897
+Petrackovo namesti;2;b;38;78322
+Petrackovo namesti;2;b;39;80718
+Petrackovo namesti;2;b;40;83070
+Posledni role;3;f;0;22873
+Posledni role;3;f;1;24426
+Posledni role;3;f;2;26103
+Posledni role;3;f;3;27426
+Posledni role;3;f;4;28845
+Posledni role;3;f;5;30556
+Posledni role;3;f;6;31985
+Posledni role;3;f;7;33454
+Posledni role;3;f;8;34966
+Posledni role;3;f;9;36387
+Posledni role;3;f;10;38100
+Posledni role;3;f;11;39440
+Posledni role;3;f;12;41042
+Posledni role;3;f;13;42345
+Posledni role;3;f;14;43982
+Posledni role;3;f;15;45415
+Posledni role;3;f;16;47007
+Posledni role;3;f;17;48581
+Posledni role;3;f;18;49874
+Posledni role;3;f;19;51543
+Posledni role;3;f;20;52867
+Posledni role;3;f;21;54453
+Posledni role;3;f;22;56121
+Posledni role;3;f;23;57347
+Posledni role;3;f;24;58994
+Posledni role;3;f;25;60574
+Posledni role;3;f;26;61948
+Posledni role;3;f;27;63373
+Posledni role;3;f;28;64951
+Posledni role;3;f;29;66380
+Posledni role;3;f;30;67937
+Posledni role;3;f;31;69594
+Posledni role;3;f;32;70995
+Posledni role;3;f;33;72392
+Posledni role;3;f;34;73845
+Posledni role;3;f;35;75345
+Posledni role;3;f;36;77013
+Posledni role;3;f;37;78406
+Posledni role;3;f;38;80075
+Posledni role;3;b;0;22200
+Posledni role;3;b;1;23700
+Posledni role;3;b;2;25200
+Posledni role;3;b;3;26700
+Posledni role;3;b;4;28200
+Posledni role;3;b;5;29700
+Posledni role;3;b;6;31200
+Posledni role;3;b;7;32700
+Posledni role;3;b;8;34200
+Posledni role;3;b;9;35700
+Posledni role;3;b;10;37200
+Posledni role;3;b;11;38700
+Posledni role;3;b;12;40200
+Posledni role;3;b;13;41700
+Posledni role;3;b;14;43200
+Posledni role;3;b;15;44700
+Posledni role;3;b;16;46200
+Posledni role;3;b;17;47700
+Posledni role;3;b;18;49200
+Posledni role;3;b;19;50700
+Posledni role;3;b;20;52200
+Posledni role;3;b;21;53700
+Posledni role;3;b;22;55200
+Posledni role;3;b;23;56700
+Posledni role;3;b;24;58200
+Posledni role;3;b;25;59700
+Posledni role;3;b;26;61200
+Posledni role;3;b;27;62700
+Posledni role;3;b;28;64200
+Posledni role;3;b;29;65700
+Posledni role;3;b;30;67200
+Posledni role;3;b;31;68700
+Posledni role;3;b;32;70200
+Posledni role;3;b;33;71700
+Posledni role;3;b;34;73200
+Posledni role;3;b;35;74700
+Posledni role;3;b;36;76200
+Posledni role;3;b;37;77700
+Posledni role;3;b;38;79200
+Pred Menzou;0;f;0;14580
+Pred Menzou;0;f;1;16385
+Pred Menzou;0;f;2;18217
+Pred Menzou;0;f;3;20001
+Pred Menzou;0;f;4;21788
+Pred Menzou;0;f;5;22737
+Pred Menzou;0;f;6;23576
+Pred Menzou;0;f;7;24489
+Pred Menzou;0;f;8;25380
+Pred Menzou;0;f;9;26280
+Pred Menzou;0;f;10;27226
+Pred Menzou;0;f;11;28106
+Pred Menzou;0;f;12;29024
+Pred Menzou;0;f;13;29880
+Pred Menzou;0;f;14;30799
+Pred Menzou;0;f;15;31760
+Pred Menzou;0;f;16;32778
+Pred Menzou;0;f;17;33564
+Pred Menzou;0;f;18;34380
+Pred Menzou;0;f;19;35337
+Pred Menzou;0;f;20;36207
+Pred Menzou;0;f;21;37983
+Pred Menzou;0;f;22;39780
+Pred Menzou;0;f;23;41580
+Pred Menzou;0;f;24;43418
+Pred Menzou;0;f;25;45180
+Pred Menzou;0;f;26;47012
+Pred Menzou;0;f;27;48780
+Pred Menzou;0;f;28;50648
+Pred Menzou;0;f;29;52402
+Pred Menzou;0;f;30;54185
+Pred Menzou;0;f;31;55090
+Pred Menzou;0;f;32;55980
+Pred Menzou;0;f;33;56896
+Pred Menzou;0;f;34;57785
+Pred Menzou;0;f;35;58680
+Pred Menzou;0;f;36;59590
+Pred Menzou;0;f;37;60488
+Pred Menzou;0;f;38;61448
+Pred Menzou;0;f;39;62289
+Pred Menzou;0;f;40;63180
+Pred Menzou;0;f;41;64100
+Pred Menzou;0;f;42;64988
+Pred Menzou;0;f;43;65880
+Pred Menzou;0;f;44;66780
+Pred Menzou;0;f;45;67680
+Pred Menzou;0;f;46;68607
+Pred Menzou;0;f;47;70411
+Pred Menzou;0;f;48;72201
+Pred Menzou;0;f;49;74031
+Pred Menzou;0;f;50;75848
+Pred Menzou;0;f;51;77580
+Pred Menzou;0;f;52;79380
+Pred Menzou;0;f;53;81180
+Pred Menzou;0;f;54;82982
+Pred Menzou;0;b;0;16240
+Pred Menzou;0;b;1;18032
+Pred Menzou;0;b;2;19840
+Pred Menzou;0;b;3;21650
+Pred Menzou;0;b;4;23440
+Pred Menzou;0;b;5;24400
+Pred Menzou;0;b;6;25293
+Pred Menzou;0;b;7;26192
+Pred Menzou;0;b;8;27469
+Pred Menzou;0;b;9;28083
+Pred Menzou;0;b;10;29282
+Pred Menzou;0;b;11;30035
+Pred Menzou;0;b;12;30883
+Pred Menzou;0;b;13;31718
+Pred Menzou;0;b;14;32744
+Pred Menzou;0;b;15;33468
+Pred Menzou;0;b;16;34510
+Pred Menzou;0;b;17;35325
+Pred Menzou;0;b;18;36040
+Pred Menzou;0;b;19;37231
+Pred Menzou;0;b;20;37967
+Pred Menzou;0;b;21;40022
+Pred Menzou;0;b;22;41440
+Pred Menzou;0;b;23;43240
+Pred Menzou;0;b;24;45194
+Pred Menzou;0;b;25;46883
+Pred Menzou;0;b;26;48640
+Pred Menzou;0;b;27;50466
+Pred Menzou;0;b;28;52240
+Pred Menzou;0;b;29;54040
+Pred Menzou;0;b;30;55927
+Pred Menzou;0;b;31;56947
+Pred Menzou;0;b;32;58200
+Pred Menzou;0;b;33;58689
+Pred Menzou;0;b;34;60141
+Pred Menzou;0;b;35;60698
+Pred Menzou;0;b;36;61428
+Pred Menzou;0;b;37;62180
+Pred Menzou;0;b;38;63296
+Pred Menzou;0;b;39;63940
+Pred Menzou;0;b;40;64879
+Pred Menzou;0;b;41;65740
+Pred Menzou;0;b;42;66785
+Pred Menzou;0;b;43;68070
+Pred Menzou;0;b;44;68673
+Pred Menzou;0;b;45;69340
+Pred Menzou;0;b;46;70283
+Pred Menzou;0;b;47;72040
+Pred Menzou;0;b;48;73840
+Pred Menzou;0;b;49;75748
+Pred Menzou;0;b;50;77440
+Pred Menzou;0;b;51;79262
+Pred Menzou;0;b;52;81127
+Pred Menzou;0;b;53;82840
+Pred Menzou;0;b;54;84956
+Prymulova;1;f;0;15677
+Prymulova;1;f;1;17227
+Prymulova;1;f;2;18606
+Prymulova;1;f;3;20143
+Prymulova;1;f;4;22042
+Prymulova;1;f;5;23182
+Prymulova;1;f;6;24534
+Prymulova;1;f;7;25578
+Prymulova;1;f;8;26789
+Prymulova;1;f;9;28262
+Prymulova;1;f;10;29760
+Prymulova;1;f;11;31099
+Prymulova;1;f;12;32064
+Prymulova;1;f;13;32903
+Prymulova;1;f;14;34082
+Prymulova;1;f;15;35958
+Prymulova;1;f;16;36480
+Prymulova;1;f;17;37601
+Prymulova;1;f;18;38747
+Prymulova;1;f;19;39964
+Prymulova;1;f;20;41761
+Prymulova;1;f;21;42935
+Prymulova;1;f;22;44406
+Prymulova;1;f;23;45897
+Prymulova;1;f;24;47354
+Prymulova;1;f;25;48879
+Prymulova;1;f;26;50459
+Prymulova;1;f;27;51949
+Prymulova;1;f;28;53568
+Prymulova;1;f;29;55461
+Prymulova;1;f;30;56476
+Prymulova;1;f;31;57530
+Prymulova;1;f;32;58752
+Prymulova;1;f;33;60175
+Prymulova;1;f;34;61064
+Prymulova;1;f;35;62233
+Prymulova;1;f;36;63563
+Prymulova;1;f;37;64685
+Prymulova;1;f;38;65839
+Prymulova;1;f;39;67128
+Prymulova;1;f;40;68276
+Prymulova;1;f;41;69502
+Prymulova;1;f;42;70639
+Prymulova;1;f;43;71690
+Prymulova;1;f;44;74394
+Prymulova;1;f;45;76746
+Prymulova;1;f;46;78897
+Prymulova;1;f;47;81352
+Prymulova;1;b;0;15479
+Prymulova;1;b;1;16976
+Prymulova;1;b;2;18600
+Prymulova;1;b;3;19936
+Prymulova;1;b;4;21524
+Prymulova;1;b;5;22950
+Prymulova;1;b;6;24132
+Prymulova;1;b;7;25375
+Prymulova;1;b;8;26514
+Prymulova;1;b;9;28176
+Prymulova;1;b;10;29139
+Prymulova;1;b;11;30299
+Prymulova;1;b;12;31825
+Prymulova;1;b;13;32836
+Prymulova;1;b;14;34055
+Prymulova;1;b;15;35121
+Prymulova;1;b;16;36293
+Prymulova;1;b;17;37452
+Prymulova;1;b;18;38555
+Prymulova;1;b;19;39748
+Prymulova;1;b;20;41266
+Prymulova;1;b;21;42816
+Prymulova;1;b;22;44450
+Prymulova;1;b;23;45770
+Prymulova;1;b;24;47226
+Prymulova;1;b;25;48777
+Prymulova;1;b;26;50408
+Prymulova;1;b;27;51759
+Prymulova;1;b;28;53239
+Prymulova;1;b;29;54746
+Prymulova;1;b;30;55987
+Prymulova;1;b;31;57163
+Prymulova;1;b;32;58399
+Prymulova;1;b;33;59568
+Prymulova;1;b;34;60831
+Prymulova;1;b;35;62179
+Prymulova;1;b;36;63251
+Prymulova;1;b;37;64387
+Prymulova;1;b;38;65537
+Prymulova;1;b;39;66907
+Prymulova;1;b;40;67937
+Prymulova;1;b;41;69158
+Prymulova;1;b;42;70356
+Prymulova;1;b;43;71555
+Prymulova;1;b;44;73987
+Prymulova;1;b;45;76433
+Prymulova;1;b;46;78745
+Prymulova;1;b;47;81277
+Radioelektronicka;0;f;0;14940
+Radioelektronicka;0;f;1;16740
+Radioelektronicka;0;f;2;18577
+Radioelektronicka;0;f;3;20375
+Radioelektronicka;0;f;4;22140
+Radioelektronicka;0;f;5;23172
+Radioelektronicka;0;f;6;23940
+Radioelektronicka;0;f;7;24840
+Radioelektronicka;0;f;8;25745
+Radioelektronicka;0;f;9;26659
+Radioelektronicka;0;f;10;27574
+Radioelektronicka;0;f;11;28440
+Radioelektronicka;0;f;12;29487
+Radioelektronicka;0;f;13;30240
+Radioelektronicka;0;f;14;31165
+Radioelektronicka;0;f;15;32149
+Radioelektronicka;0;f;16;33208
+Radioelektronicka;0;f;17;34029
+Radioelektronicka;0;f;18;34759
+Radioelektronicka;0;f;19;35699
+Radioelektronicka;0;f;20;36590
+Radioelektronicka;0;f;21;38340
+Radioelektronicka;0;f;22;40142
+Radioelektronicka;0;f;23;41940
+Radioelektronicka;0;f;24;43732
+Radioelektronicka;0;f;25;45540
+Radioelektronicka;0;f;26;47468
+Radioelektronicka;0;f;27;49140
+Radioelektronicka;0;f;28;51063
+Radioelektronicka;0;f;29;52701
+Radioelektronicka;0;f;30;54566
+Radioelektronicka;0;f;31;55440
+Radioelektronicka;0;f;32;56340
+Radioelektronicka;0;f;33;57240
+Radioelektronicka;0;f;34;58155
+Radioelektronicka;0;f;35;59040
+Radioelektronicka;0;f;36;59944
+Radioelektronicka;0;f;37;60840
+Radioelektronicka;0;f;38;61938
+Radioelektronicka;0;f;39;62744
+Radioelektronicka;0;f;40;63540
+Radioelektronicka;0;f;41;64475
+Radioelektronicka;0;f;42;65367
+Radioelektronicka;0;f;43;66240
+Radioelektronicka;0;f;44;67068
+Radioelektronicka;0;f;45;68040
+Radioelektronicka;0;f;46;68940
+Radioelektronicka;0;f;47;70810
+Radioelektronicka;0;f;48;72585
+Radioelektronicka;0;f;49;74450
+Radioelektronicka;0;f;50;76339
+Radioelektronicka;0;f;51;77940
+Radioelektronicka;0;f;52;79740
+Radioelektronicka;0;f;53;81547
+Radioelektronicka;0;f;54;83356
+Radioelektronicka;0;b;0;15891
+Radioelektronicka;0;b;1;17688
+Radioelektronicka;0;b;2;19492
+Radioelektronicka;0;b;3;21343
+Radioelektronicka;0;b;4;23080
+Radioelektronicka;0;b;5;24046
+Radioelektronicka;0;b;6;25008
+Radioelektronicka;0;b;7;25832
+Radioelektronicka;0;b;8;27079
+Radioelektronicka;0;b;9;27789
+Radioelektronicka;0;b;10;28891
+Radioelektronicka;0;b;11;29633
+Radioelektronicka;0;b;12;30572
+Radioelektronicka;0;b;13;31418
+Radioelektronicka;0;b;14;32431
+Radioelektronicka;0;b;15;33132
+Radioelektronicka;0;b;16;34180
+Radioelektronicka;0;b;17;34956
+Radioelektronicka;0;b;18;35691
+Radioelektronicka;0;b;19;36863
+Radioelektronicka;0;b;20;37617
+Radioelektronicka;0;b;21;39602
+Radioelektronicka;0;b;22;41100
+Radioelektronicka;0;b;23;42880
+Radioelektronicka;0;b;24;44797
+Radioelektronicka;0;b;25;46541
+Radioelektronicka;0;b;26;48280
+Radioelektronicka;0;b;27;50103
+Radioelektronicka;0;b;28;51880
+Radioelektronicka;0;b;29;53728
+Radioelektronicka;0;b;30;55590
+Radioelektronicka;0;b;31;56624
+Radioelektronicka;0;b;32;57799
+Radioelektronicka;0;b;33;58301
+Radioelektronicka;0;b;34;59587
+Radioelektronicka;0;b;35;60237
+Radioelektronicka;0;b;36;61145
+Radioelektronicka;0;b;37;61877
+Radioelektronicka;0;b;38;62964
+Radioelektronicka;0;b;39;63580
+Radioelektronicka;0;b;40;64556
+Radioelektronicka;0;b;41;65380
+Radioelektronicka;0;b;42;66492
+Radioelektronicka;0;b;43;67636
+Radioelektronicka;0;b;44;68299
+Radioelektronicka;0;b;45;68980
+Radioelektronicka;0;b;46;69929
+Radioelektronicka;0;b;47;71689
+Radioelektronicka;0;b;48;73480
+Radioelektronicka;0;b;49;75446
+Radioelektronicka;0;b;50;77080
+Radioelektronicka;0;b;51;78893
+Radioelektronicka;0;b;52;80763
+Radioelektronicka;0;b;53;82497
+Radioelektronicka;0;b;54;84552
+Rektorat;0;f;0;16000
+Rektorat;0;f;1;17844
+Rektorat;0;f;2;19826
+Rektorat;0;f;3;21681
+Rektorat;0;f;4;23224
+Rektorat;0;f;5;24576
+Rektorat;0;f;6;25000
+Rektorat;0;f;7;25952
+Rektorat;0;f;8;26936
+Rektorat;0;f;9;27928
+Rektorat;0;f;10;28961
+Rektorat;0;f;11;29500
+Rektorat;0;f;12;30843
+Rektorat;0;f;13;31512
+Rektorat;0;f;14;32422
+Rektorat;0;f;15;33499
+Rektorat;0;f;16;34734
+Rektorat;0;f;17;35381
+Rektorat;0;f;18;35903
+Rektorat;0;f;19;36801
+Rektorat;0;f;20;37676
+Rektorat;0;f;21;39452
+Rektorat;0;f;22;41322
+Rektorat;0;f;23;43006
+Rektorat;0;f;24;44866
+Rektorat;0;f;25;46600
+Rektorat;0;f;26;48801
+Rektorat;0;f;27;50203
+Rektorat;0;f;28;52433
+Rektorat;0;f;29;53867
+Rektorat;0;f;30;55715
+Rektorat;0;f;31;56623
+Rektorat;0;f;32;57578
+Rektorat;0;f;33;58461
+Rektorat;0;f;34;59470
+Rektorat;0;f;35;60100
+Rektorat;0;f;36;61169
+Rektorat;0;f;37;62365
+Rektorat;0;f;38;63702
+Rektorat;0;f;39;64561
+Rektorat;0;f;40;64985
+Rektorat;0;f;41;65626
+Rektorat;0;f;42;66570
+Rektorat;0;f;43;67307
+Rektorat;0;f;44;68200
+Rektorat;0;f;45;69267
+Rektorat;0;f;46;70073
+Rektorat;0;f;47;71832
+Rektorat;0;f;48;73763
+Rektorat;0;f;49;75782
+Rektorat;0;f;50;77734
+Rektorat;0;f;51;79000
+Rektorat;0;f;52;80800
+Rektorat;0;f;53;82606
+Rektorat;0;f;54;84408
+Rektorat;0;b;0;14820
+Rektorat;0;b;1;16620
+Rektorat;0;b;2;18420
+Rektorat;0;b;3;20220
+Rektorat;0;b;4;22020
+Rektorat;0;b;5;22920
+Rektorat;0;b;6;23820
+Rektorat;0;b;7;24720
+Rektorat;0;b;8;25620
+Rektorat;0;b;9;26520
+Rektorat;0;b;10;27459
+Rektorat;0;b;11;28320
+Rektorat;0;b;12;29220
+Rektorat;0;b;13;30138
+Rektorat;0;b;14;31020
+Rektorat;0;b;15;31920
+Rektorat;0;b;16;32826
+Rektorat;0;b;17;33721
+Rektorat;0;b;18;34620
+Rektorat;0;b;19;35553
+Rektorat;0;b;20;36445
+Rektorat;0;b;21;38275
+Rektorat;0;b;22;40021
+Rektorat;0;b;23;41820
+Rektorat;0;b;24;43620
+Rektorat;0;b;25;45420
+Rektorat;0;b;26;47220
+Rektorat;0;b;27;49028
+Rektorat;0;b;28;50820
+Rektorat;0;b;29;52627
+Rektorat;0;b;30;54420
+Rektorat;0;b;31;55320
+Rektorat;0;b;32;56232
+Rektorat;0;b;33;57120
+Rektorat;0;b;34;58075
+Rektorat;0;b;35;58937
+Rektorat;0;b;36;59828
+Rektorat;0;b;37;60720
+Rektorat;0;b;38;61622
+Rektorat;0;b;39;62520
+Rektorat;0;b;40;63439
+Rektorat;0;b;41;64320
+Rektorat;0;b;42;65231
+Rektorat;0;b;43;66175
+Rektorat;0;b;44;67020
+Rektorat;0;b;45;67920
+Rektorat;0;b;46;68820
+Rektorat;0;b;47;70620
+Rektorat;0;b;48;72420
+Rektorat;0;b;49;74220
+Rektorat;0;b;50;76020
+Rektorat;0;b;51;77825
+Rektorat;0;b;52;79620
+Rektorat;0;b;53;81420
+Rektorat;0;b;54;83238
+Remdesivirova;1;f;0;15802
+Remdesivirova;1;f;1;17364
+Remdesivirova;1;f;2;18724
+Remdesivirova;1;f;3;20267
+Remdesivirova;1;f;4;22219
+Remdesivirova;1;f;5;23316
+Remdesivirova;1;f;6;24678
+Remdesivirova;1;f;7;25733
+Remdesivirova;1;f;8;26982
+Remdesivirova;1;f;9;28506
+Remdesivirova;1;f;10;29905
+Remdesivirova;1;f;11;31388
+Remdesivirova;1;f;12;32185
+Remdesivirova;1;f;13;33087
+Remdesivirova;1;f;14;34248
+Remdesivirova;1;f;15;36146
+Remdesivirova;1;f;16;36619
+Remdesivirova;1;f;17;37744
+Remdesivirova;1;f;18;38895
+Remdesivirova;1;f;19;40050
+Remdesivirova;1;f;20;41922
+Remdesivirova;1;f;21;43071
+Remdesivirova;1;f;22;44537
+Remdesivirova;1;f;23;46040
+Remdesivirova;1;f;24;47480
+Remdesivirova;1;f;25;49013
+Remdesivirova;1;f;26;50597
+Remdesivirova;1;f;27;52086
+Remdesivirova;1;f;28;53708
+Remdesivirova;1;f;29;55627
+Remdesivirova;1;f;30;56641
+Remdesivirova;1;f;31;57725
+Remdesivirova;1;f;32;58907
+Remdesivirova;1;f;33;60344
+Remdesivirova;1;f;34;61158
+Remdesivirova;1;f;35;62393
+Remdesivirova;1;f;36;63729
+Remdesivirova;1;f;37;64852
+Remdesivirova;1;f;38;66005
+Remdesivirova;1;f;39;67220
+Remdesivirova;1;f;40;68421
+Remdesivirova;1;f;41;69641
+Remdesivirova;1;f;42;70777
+Remdesivirova;1;f;43;71798
+Remdesivirova;1;f;44;74581
+Remdesivirova;1;f;45;76910
+Remdesivirova;1;f;46;79030
+Remdesivirova;1;f;47;81489
+Remdesivirova;1;b;0;15342
+Remdesivirova;1;b;1;16854
+Remdesivirova;1;b;2;18448
+Remdesivirova;1;b;3;19815
+Remdesivirova;1;b;4;21393
+Remdesivirova;1;b;5;22825
+Remdesivirova;1;b;6;24010
+Remdesivirova;1;b;7;25237
+Remdesivirova;1;b;8;26394
+Remdesivirova;1;b;9;27981
+Remdesivirova;1;b;10;28989
+Remdesivirova;1;b;11;30148
+Remdesivirova;1;b;12;31654
+Remdesivirova;1;b;13;32660
+Remdesivirova;1;b;14;33883
+Remdesivirova;1;b;15;34990
+Remdesivirova;1;b;16;36148
+Remdesivirova;1;b;17;37333
+Remdesivirova;1;b;18;38439
+Remdesivirova;1;b;19;39617
+Remdesivirova;1;b;20;41135
+Remdesivirova;1;b;21;42684
+Remdesivirova;1;b;22;44282
+Remdesivirova;1;b;23;45634
+Remdesivirova;1;b;24;47110
+Remdesivirova;1;b;25;48640
+Remdesivirova;1;b;26;50265
+Remdesivirova;1;b;27;51632
+Remdesivirova;1;b;28;53116
+Remdesivirova;1;b;29;54615
+Remdesivirova;1;b;30;55855
+Remdesivirova;1;b;31;57011
+Remdesivirova;1;b;32;58254
+Remdesivirova;1;b;33;59422
+Remdesivirova;1;b;34;60666
+Remdesivirova;1;b;35;61978
+Remdesivirova;1;b;36;63092
+Remdesivirova;1;b;37;64237
+Remdesivirova;1;b;38;65399
+Remdesivirova;1;b;39;66779
+Remdesivirova;1;b;40;67815
+Remdesivirova;1;b;41;69031
+Remdesivirova;1;b;42;70231
+Remdesivirova;1;b;43;71439
+Remdesivirova;1;b;44;73857
+Remdesivirova;1;b;45;76294
+Remdesivirova;1;b;46;78625
+Remdesivirova;1;b;47;81143
+Respiratoru;1;f;0;15073
+Respiratoru;1;f;1;16645
+Respiratoru;1;f;2;18060
+Respiratoru;1;f;3;19576
+Respiratoru;1;f;4;21280
+Respiratoru;1;f;5;22560
+Respiratoru;1;f;6;23908
+Respiratoru;1;f;7;24978
+Respiratoru;1;f;8;26240
+Respiratoru;1;f;9;27614
+Respiratoru;1;f;10;28796
+Respiratoru;1;f;11;30218
+Respiratoru;1;f;12;31390
+Respiratoru;1;f;13;32262
+Respiratoru;1;f;14;33431
+Respiratoru;1;f;15;35140
+Respiratoru;1;f;16;35802
+Respiratoru;1;f;17;36960
+Respiratoru;1;f;18;38197
+Respiratoru;1;f;19;39370
+Respiratoru;1;f;20;41046
+Respiratoru;1;f;21;42360
+Respiratoru;1;f;22;43860
+Respiratoru;1;f;23;45360
+Respiratoru;1;f;24;46860
+Respiratoru;1;f;25;48360
+Respiratoru;1;f;26;49955
+Respiratoru;1;f;27;51377
+Respiratoru;1;f;28;52895
+Respiratoru;1;f;29;54696
+Respiratoru;1;f;30;55640
+Respiratoru;1;f;31;56760
+Respiratoru;1;f;32;57965
+Respiratoru;1;f;33;59306
+Respiratoru;1;f;34;60360
+Respiratoru;1;f;35;61583
+Respiratoru;1;f;36;62760
+Respiratoru;1;f;37;64014
+Respiratoru;1;f;38;65160
+Respiratoru;1;f;39;66440
+Respiratoru;1;f;40;67567
+Respiratoru;1;f;41;68951
+Respiratoru;1;f;42;69990
+Respiratoru;1;f;43;71160
+Respiratoru;1;f;44;73733
+Respiratoru;1;f;45;76035
+Respiratoru;1;f;46;78360
+Respiratoru;1;f;47;80797
+Respiratoru;1;b;0;15998
+Respiratoru;1;b;1;17482
+Respiratoru;1;b;2;19242
+Respiratoru;1;b;3;20499
+Respiratoru;1;b;4;22075
+Respiratoru;1;b;5;23478
+Respiratoru;1;b;6;24732
+Respiratoru;1;b;7;25984
+Respiratoru;1;b;8;27033
+Respiratoru;1;b;9;28960
+Respiratoru;1;b;10;29834
+Respiratoru;1;b;11;31280
+Respiratoru;1;b;12;32607
+Respiratoru;1;b;13;33471
+Respiratoru;1;b;14;34764
+Respiratoru;1;b;15;35781
+Respiratoru;1;b;16;36893
+Respiratoru;1;b;17;37928
+Respiratoru;1;b;18;39071
+Respiratoru;1;b;19;40250
+Respiratoru;1;b;20;41695
+Respiratoru;1;b;21;43345
+Respiratoru;1;b;22;44999
+Respiratoru;1;b;23;46258
+Respiratoru;1;b;24;47695
+Respiratoru;1;b;25;49314
+Respiratoru;1;b;26;50958
+Respiratoru;1;b;27;52303
+Respiratoru;1;b;28;53737
+Respiratoru;1;b;29;55287
+Respiratoru;1;b;30;56600
+Respiratoru;1;b;31;57577
+Respiratoru;1;b;32;58969
+Respiratoru;1;b;33;60200
+Respiratoru;1;b;34;61513
+Respiratoru;1;b;35;62929
+Respiratoru;1;b;36;63942
+Respiratoru;1;b;37;64969
+Respiratoru;1;b;38;66092
+Respiratoru;1;b;39;67572
+Respiratoru;1;b;40;68486
+Respiratoru;1;b;41;69651
+Respiratoru;1;b;42;70856
+Respiratoru;1;b;43;71990
+Respiratoru;1;b;44;74460
+Respiratoru;1;b;45;76927
+Respiratoru;1;b;46;79336
+Respiratoru;1;b;47;81821
+Spanelska;1;f;0;16415
+Spanelska;1;f;1;17915
+Spanelska;1;f;2;19356
+Spanelska;1;f;3;20911
+Spanelska;1;f;4;22957
+Spanelska;1;f;5;23963
+Spanelska;1;f;6;25247
+Spanelska;1;f;7;26348
+Spanelska;1;f;8;27579
+Spanelska;1;f;9;29270
+Spanelska;1;f;10;30643
+Spanelska;1;f;11;31992
+Spanelska;1;f;12;32743
+Spanelska;1;f;13;33675
+Spanelska;1;f;14;34802
+Spanelska;1;f;15;36932
+Spanelska;1;f;16;37317
+Spanelska;1;f;17;38392
+Spanelska;1;f;18;39510
+Spanelska;1;f;19;40736
+Spanelska;1;f;20;42646
+Spanelska;1;f;21;43635
+Spanelska;1;f;22;45228
+Spanelska;1;f;23;46711
+Spanelska;1;f;24;48110
+Spanelska;1;f;25;49679
+Spanelska;1;f;26;51155
+Spanelska;1;f;27;52783
+Spanelska;1;f;28;54278
+Spanelska;1;f;29;56531
+Spanelska;1;f;30;57333
+Spanelska;1;f;31;58195
+Spanelska;1;f;32;59636
+Spanelska;1;f;33;60946
+Spanelska;1;f;34;61774
+Spanelska;1;f;35;63076
+Spanelska;1;f;36;64366
+Spanelska;1;f;37;65570
+Spanelska;1;f;38;66688
+Spanelska;1;f;39;67966
+Spanelska;1;f;40;69155
+Spanelska;1;f;41;70288
+Spanelska;1;f;42;71387
+Spanelska;1;f;43;72410
+Spanelska;1;f;44;75373
+Spanelska;1;f;45;77621
+Spanelska;1;f;46;79626
+Spanelska;1;f;47;82178
+Spanelska;1;b;0;14640
+Spanelska;1;b;1;16140
+Spanelska;1;b;2;17640
+Spanelska;1;b;3;19140
+Spanelska;1;b;4;20640
+Spanelska;1;b;5;22140
+Spanelska;1;b;6;23340
+Spanelska;1;b;7;24540
+Spanelska;1;b;8;25740
+Spanelska;1;b;9;26940
+Spanelska;1;b;10;28140
+Spanelska;1;b;11;29340
+Spanelska;1;b;12;30540
+Spanelska;1;b;13;31740
+Spanelska;1;b;14;32940
+Spanelska;1;b;15;34140
+Spanelska;1;b;16;35340
+Spanelska;1;b;17;36540
+Spanelska;1;b;18;37740
+Spanelska;1;b;19;38940
+Spanelska;1;b;20;40440
+Spanelska;1;b;21;41940
+Spanelska;1;b;22;43440
+Spanelska;1;b;23;44940
+Spanelska;1;b;24;46440
+Spanelska;1;b;25;47940
+Spanelska;1;b;26;49440
+Spanelska;1;b;27;50940
+Spanelska;1;b;28;52440
+Spanelska;1;b;29;53940
+Spanelska;1;b;30;55140
+Spanelska;1;b;31;56340
+Spanelska;1;b;32;57540
+Spanelska;1;b;33;58740
+Spanelska;1;b;34;59940
+Spanelska;1;b;35;61140
+Spanelska;1;b;36;62340
+Spanelska;1;b;37;63540
+Spanelska;1;b;38;64740
+Spanelska;1;b;39;65940
+Spanelska;1;b;40;67140
+Spanelska;1;b;41;68340
+Spanelska;1;b;42;69540
+Spanelska;1;b;43;70740
+Spanelska;1;b;44;73140
+Spanelska;1;b;45;75540
+Spanelska;1;b;46;77940
+Spanelska;1;b;47;80340
+Studentska;0;f;0;15263
+Studentska;0;f;1;17058
+Studentska;0;f;2;18941
+Studentska;0;f;3;20764
+Studentska;0;f;4;22459
+Studentska;0;f;5;23550
+Studentska;0;f;6;24243
+Studentska;0;f;7;25158
+Studentska;0;f;8;26178
+Studentska;0;f;9;27064
+Studentska;0;f;10;28007
+Studentska;0;f;11;28822
+Studentska;0;f;12;29926
+Studentska;0;f;13;30696
+Studentska;0;f;14;31527
+Studentska;0;f;15;32672
+Studentska;0;f;16;33599
+Studentska;0;f;17;34574
+Studentska;0;f;18;35151
+Studentska;0;f;19;36020
+Studentska;0;f;20;36898
+Studentska;0;f;21;38669
+Studentska;0;f;22;40452
+Studentska;0;f;23;42253
+Studentska;0;f;24;44056
+Studentska;0;f;25;45832
+Studentska;0;f;26;47877
+Studentska;0;f;27;49459
+Studentska;0;f;28;51474
+Studentska;0;f;29;53064
+Studentska;0;f;30;54891
+Studentska;0;f;31;55752
+Studentska;0;f;32;56752
+Studentska;0;f;33;57605
+Studentska;0;f;34;58561
+Studentska;0;f;35;59340
+Studentska;0;f;36;60328
+Studentska;0;f;37;61265
+Studentska;0;f;38;62350
+Studentska;0;f;39;63316
+Studentska;0;f;40;63965
+Studentska;0;f;41;64819
+Studentska;0;f;42;65752
+Studentska;0;f;43;66540
+Studentska;0;f;44;67467
+Studentska;0;f;45;68414
+Studentska;0;f;46;69274
+Studentska;0;f;47;71130
+Studentska;0;f;48;72950
+Studentska;0;f;49;74867
+Studentska;0;f;50;76781
+Studentska;0;f;51;78266
+Studentska;0;f;52;80053
+Studentska;0;f;53;81850
+Studentska;0;f;54;83641
+Studentska;0;b;0;15591
+Studentska;0;b;1;17380
+Studentska;0;b;2;19180
+Studentska;0;b;3;21037
+Studentska;0;b;4;22780
+Studentska;0;b;5;23722
+Studentska;0;b;6;24682
+Studentska;0;b;7;25520
+Studentska;0;b;8;26654
+Studentska;0;b;9;27446
+Studentska;0;b;10;28443
+Studentska;0;b;11;29299
+Studentska;0;b;12;30175
+Studentska;0;b;13;31047
+Studentska;0;b;14;32005
+Studentska;0;b;15;32728
+Studentska;0;b;16;33761
+Studentska;0;b;17;34633
+Studentska;0;b;18;35401
+Studentska;0;b;19;36487
+Studentska;0;b;20;37263
+Studentska;0;b;21;39215
+Studentska;0;b;22;40818
+Studentska;0;b;23;42580
+Studentska;0;b;24;44443
+Studentska;0;b;25;46220
+Studentska;0;b;26;47989
+Studentska;0;b;27;49780
+Studentska;0;b;28;51580
+Studentska;0;b;29;53431
+Studentska;0;b;30;55234
+Studentska;0;b;31;56206
+Studentska;0;b;32;57340
+Studentska;0;b;33;58048
+Studentska;0;b;34;59158
+Studentska;0;b;35;59914
+Studentska;0;b;36;60789
+Studentska;0;b;37;61539
+Studentska;0;b;38;62663
+Studentska;0;b;39;63310
+Studentska;0;b;40;64233
+Studentska;0;b;41;65092
+Studentska;0;b;42;66138
+Studentska;0;b;43;67216
+Studentska;0;b;44;67998
+Studentska;0;b;45;68697
+Studentska;0;b;46;69591
+Studentska;0;b;47;71380
+Studentska;0;b;48;73186
+Studentska;0;b;49;75091
+Studentska;0;b;50;76780
+Studentska;0;b;51;78585
+Studentska;0;b;52;80407
+Studentska;0;b;53;82180
+Studentska;0;b;54;84158
+Studentska;2;f;0;17640
+Studentska;2;f;1;20075
+Studentska;2;f;2;22495
+Studentska;2;f;3;23681
+Studentska;2;f;4;24902
+Studentska;2;f;5;26179
+Studentska;2;f;6;27338
+Studentska;2;f;7;28448
+Studentska;2;f;8;29711
+Studentska;2;f;9;30869
+Studentska;2;f;10;32131
+Studentska;2;f;11;33325
+Studentska;2;f;12;34515
+Studentska;2;f;13;35734
+Studentska;2;f;14;38074
+Studentska;2;f;15;40533
+Studentska;2;f;16;42840
+Studentska;2;f;17;45307
+Studentska;2;f;18;47772
+Studentska;2;f;19;50051
+Studentska;2;f;20;52513
+Studentska;2;f;21;54939
+Studentska;2;f;22;57285
+Studentska;2;f;23;58443
+Studentska;2;f;24;59759
+Studentska;2;f;25;60984
+Studentska;2;f;26;62120
+Studentska;2;f;27;63359
+Studentska;2;f;28;64471
+Studentska;2;f;29;65676
+Studentska;2;f;30;66853
+Studentska;2;f;31;68040
+Studentska;2;f;32;69330
+Studentska;2;f;33;70533
+Studentska;2;f;34;71707
+Studentska;2;f;35;72975
+Studentska;2;f;36;74175
+Studentska;2;f;37;75288
+Studentska;2;f;38;77640
+Studentska;2;f;39;80085
+Studentska;2;f;40;82517
+Studentska;2;b;0;18707
+Studentska;2;b;1;21004
+Studentska;2;b;2;23453
+Studentska;2;b;3;24540
+Studentska;2;b;4;25776
+Studentska;2;b;5;26990
+Studentska;2;b;6;28189
+Studentska;2;b;7;29440
+Studentska;2;b;8;30655
+Studentska;2;b;9;31846
+Studentska;2;b;10;32940
+Studentska;2;b;11;34255
+Studentska;2;b;12;35484
+Studentska;2;b;13;36605
+Studentska;2;b;14;39003
+Studentska;2;b;15;41403
+Studentska;2;b;16;43768
+Studentska;2;b;17;46215
+Studentska;2;b;18;48571
+Studentska;2;b;19;51044
+Studentska;2;b;20;53340
+Studentska;2;b;21;55837
+Studentska;2;b;22;58245
+Studentska;2;b;23;59404
+Studentska;2;b;24;60615
+Studentska;2;b;25;61801
+Studentska;2;b;26;63019
+Studentska;2;b;27;64140
+Studentska;2;b;28;65477
+Studentska;2;b;29;66638
+Studentska;2;b;30;67782
+Studentska;2;b;31;69000
+Studentska;2;b;32;70273
+Studentska;2;b;33;71348
+Studentska;2;b;34;72626
+Studentska;2;b;35;73846
+Studentska;2;b;36;75073
+Studentska;2;b;37;76210
+Studentska;2;b;38;78650
+Studentska;2;b;39;81019
+Studentska;2;b;40;83340
+Studijni odd.;0;f;0;16120
+Studijni odd.;0;f;1;17956
+Studijni odd.;0;f;2;19932
+Studijni odd.;0;f;3;21762
+Studijni odd.;0;f;4;23347
+Studijni odd.;0;f;5;24734
+Studijni odd.;0;f;6;25123
+Studijni odd.;0;f;7;26065
+Studijni odd.;0;f;8;27059
+Studijni odd.;0;f;9;28036
+Studijni odd.;0;f;10;29072
+Studijni odd.;0;f;11;29620
+Studijni odd.;0;f;12;30996
+Studijni odd.;0;f;13;31616
+Studijni odd.;0;f;14;32553
+Studijni odd.;0;f;15;33630
+Studijni odd.;0;f;16;34866
+Studijni odd.;0;f;17;35510
+Studijni odd.;0;f;18;36019
+Studijni odd.;0;f;19;36922
+Studijni odd.;0;f;20;37802
+Studijni odd.;0;f;21;39571
+Studijni odd.;0;f;22;41444
+Studijni odd.;0;f;23;43120
+Studijni odd.;0;f;24;44993
+Studijni odd.;0;f;25;46720
+Studijni odd.;0;f;26;48933
+Studijni odd.;0;f;27;50320
+Studijni odd.;0;f;28;52573
+Studijni odd.;0;f;29;54002
+Studijni odd.;0;f;30;55843
+Studijni odd.;0;f;31;56683
+Studijni odd.;0;f;32;57692
+Studijni odd.;0;f;33;58567
+Studijni odd.;0;f;34;59559
+Studijni odd.;0;f;35;60220
+Studijni odd.;0;f;36;61281
+Studijni odd.;0;f;37;62457
+Studijni odd.;0;f;38;63846
+Studijni odd.;0;f;39;64719
+Studijni odd.;0;f;40;65147
+Studijni odd.;0;f;41;65804
+Studijni odd.;0;f;42;66675
+Studijni odd.;0;f;43;67420
+Studijni odd.;0;f;44;68320
+Studijni odd.;0;f;45;69387
+Studijni odd.;0;f;46;70147
+Studijni odd.;0;f;47;71948
+Studijni odd.;0;f;48;73901
+Studijni odd.;0;f;49;75910
+Studijni odd.;0;f;50;77896
+Studijni odd.;0;f;51;79120
+Studijni odd.;0;f;52;80920
+Studijni odd.;0;f;53;82723
+Studijni odd.;0;f;54;84551
+Studijni odd.;0;b;0;14700
+Studijni odd.;0;b;1;16500
+Studijni odd.;0;b;2;18300
+Studijni odd.;0;b;3;20100
+Studijni odd.;0;b;4;21900
+Studijni odd.;0;b;5;22800
+Studijni odd.;0;b;6;23700
+Studijni odd.;0;b;7;24600
+Studijni odd.;0;b;8;25500
+Studijni odd.;0;b;9;26400
+Studijni odd.;0;b;10;27300
+Studijni odd.;0;b;11;28200
+Studijni odd.;0;b;12;29100
+Studijni odd.;0;b;13;30000
+Studijni odd.;0;b;14;30900
+Studijni odd.;0;b;15;31800
+Studijni odd.;0;b;16;32700
+Studijni odd.;0;b;17;33600
+Studijni odd.;0;b;18;34500
+Studijni odd.;0;b;19;35400
+Studijni odd.;0;b;20;36300
+Studijni odd.;0;b;21;38100
+Studijni odd.;0;b;22;39900
+Studijni odd.;0;b;23;41700
+Studijni odd.;0;b;24;43500
+Studijni odd.;0;b;25;45300
+Studijni odd.;0;b;26;47100
+Studijni odd.;0;b;27;48900
+Studijni odd.;0;b;28;50700
+Studijni odd.;0;b;29;52500
+Studijni odd.;0;b;30;54300
+Studijni odd.;0;b;31;55200
+Studijni odd.;0;b;32;56100
+Studijni odd.;0;b;33;57000
+Studijni odd.;0;b;34;57900
+Studijni odd.;0;b;35;58800
+Studijni odd.;0;b;36;59700
+Studijni odd.;0;b;37;60600
+Studijni odd.;0;b;38;61500
+Studijni odd.;0;b;39;62400
+Studijni odd.;0;b;40;63300
+Studijni odd.;0;b;41;64200
+Studijni odd.;0;b;42;65100
+Studijni odd.;0;b;43;66000
+Studijni odd.;0;b;44;66900
+Studijni odd.;0;b;45;67800
+Studijni odd.;0;b;46;68700
+Studijni odd.;0;b;47;70500
+Studijni odd.;0;b;48;72300
+Studijni odd.;0;b;49;74100
+Studijni odd.;0;b;50;75900
+Studijni odd.;0;b;51;77700
+Studijni odd.;0;b;52;79500
+Studijni odd.;0;b;53;81300
+Studijni odd.;0;b;54;83100
+Svadlen;3;f;0;22328
+Svadlen;3;f;1;23843
+Svadlen;3;f;2;25401
+Svadlen;3;f;3;26855
+Svadlen;3;f;4;28305
+Svadlen;3;f;5;29914
+Svadlen;3;f;6;31382
+Svadlen;3;f;7;32840
+Svadlen;3;f;8;34310
+Svadlen;3;f;9;35834
+Svadlen;3;f;10;37390
+Svadlen;3;f;11;38849
+Svadlen;3;f;12;40403
+Svadlen;3;f;13;41805
+Svadlen;3;f;14;43364
+Svadlen;3;f;15;44840
+Svadlen;3;f;16;46384
+Svadlen;3;f;17;47893
+Svadlen;3;f;18;49318
+Svadlen;3;f;19;50861
+Svadlen;3;f;20;52308
+Svadlen;3;f;21;53842
+Svadlen;3;f;22;55420
+Svadlen;3;f;23;56805
+Svadlen;3;f;24;58337
+Svadlen;3;f;25;59879
+Svadlen;3;f;26;61354
+Svadlen;3;f;27;62805
+Svadlen;3;f;28;64344
+Svadlen;3;f;29;65840
+Svadlen;3;f;30;67346
+Svadlen;3;f;31;68904
+Svadlen;3;f;32;70368
+Svadlen;3;f;33;71813
+Svadlen;3;f;34;73305
+Svadlen;3;f;35;74816
+Svadlen;3;f;36;76404
+Svadlen;3;f;37;77813
+Svadlen;3;f;38;79406
+Svadlen;3;b;0;22824
+Svadlen;3;b;1;24331
+Svadlen;3;b;2;25838
+Svadlen;3;b;3;27295
+Svadlen;3;b;4;28740
+Svadlen;3;b;5;30324
+Svadlen;3;b;6;31808
+Svadlen;3;b;7;33385
+Svadlen;3;b;8;34740
+Svadlen;3;b;9;36304
+Svadlen;3;b;10;37879
+Svadlen;3;b;11;39321
+Svadlen;3;b;12;40911
+Svadlen;3;b;13;42299
+Svadlen;3;b;14;43742
+Svadlen;3;b;15;45303
+Svadlen;3;b;16;46841
+Svadlen;3;b;17;48308
+Svadlen;3;b;18;49740
+Svadlen;3;b;19;51300
+Svadlen;3;b;20;52860
+Svadlen;3;b;21;54382
+Svadlen;3;b;22;55768
+Svadlen;3;b;23;57348
+Svadlen;3;b;24;58751
+Svadlen;3;b;25;60258
+Svadlen;3;b;26;61920
+Svadlen;3;b;27;63240
+Svadlen;3;b;28;64803
+Svadlen;3;b;29;66304
+Svadlen;3;b;30;67851
+Svadlen;3;b;31;69263
+Svadlen;3;b;32;70768
+Svadlen;3;b;33;72348
+Svadlen;3;b;34;73848
+Svadlen;3;b;35;75340
+Svadlen;3;b;36;76851
+Svadlen;3;b;37;78259
+Svadlen;3;b;38;79822
+Svepomoci;1;f;0;15938
+Svepomoci;1;f;1;17429
+Svepomoci;1;f;2;18846
+Svepomoci;1;f;3;20416
+Svepomoci;1;f;4;22386
+Svepomoci;1;f;5;23459
+Svepomoci;1;f;6;24789
+Svepomoci;1;f;7;25888
+Svepomoci;1;f;8;27082
+Svepomoci;1;f;9;28664
+Svepomoci;1;f;10;30061
+Svepomoci;1;f;11;31522
+Svepomoci;1;f;12;32316
+Svepomoci;1;f;13;33214
+Svepomoci;1;f;14;34333
+Svepomoci;1;f;15;36316
+Svepomoci;1;f;16;36759
+Svepomoci;1;f;17;37910
+Svepomoci;1;f;18;39038
+Svepomoci;1;f;19;40200
+Svepomoci;1;f;20;42070
+Svepomoci;1;f;21;43193
+Svepomoci;1;f;22;44676
+Svepomoci;1;f;23;46185
+Svepomoci;1;f;24;47605
+Svepomoci;1;f;25;49121
+Svepomoci;1;f;26;50735
+Svepomoci;1;f;27;52226
+Svepomoci;1;f;28;53857
+Svepomoci;1;f;29;55765
+Svepomoci;1;f;30;56804
+Svepomoci;1;f;31;57823
+Svepomoci;1;f;32;58985
+Svepomoci;1;f;33;60490
+Svepomoci;1;f;34;61276
+Svepomoci;1;f;35;62603
+Svepomoci;1;f;36;63922
+Svepomoci;1;f;37;65016
+Svepomoci;1;f;38;66133
+Svepomoci;1;f;39;67396
+Svepomoci;1;f;40;68596
+Svepomoci;1;f;41;69791
+Svepomoci;1;f;42;70914
+Svepomoci;1;f;43;71917
+Svepomoci;1;f;44;74747
+Svepomoci;1;f;45;77068
+Svepomoci;1;f;46;79122
+Svepomoci;1;f;47;81627
+Svepomoci;1;b;0;15175
+Svepomoci;1;b;1;16696
+Svepomoci;1;b;2;18248
+Svepomoci;1;b;3;19660
+Svepomoci;1;b;4;21223
+Svepomoci;1;b;5;22682
+Svepomoci;1;b;6;23870
+Svepomoci;1;b;7;25060
+Svepomoci;1;b;8;26260
+Svepomoci;1;b;9;27674
+Svepomoci;1;b;10;28780
+Svepomoci;1;b;11;29904
+Svepomoci;1;b;12;31433
+Svepomoci;1;b;13;32327
+Svepomoci;1;b;14;33666
+Svepomoci;1;b;15;34798
+Svepomoci;1;b;16;35949
+Svepomoci;1;b;17;37159
+Svepomoci;1;b;18;38298
+Svepomoci;1;b;19;39460
+Svepomoci;1;b;20;40979
+Svepomoci;1;b;21;42501
+Svepomoci;1;b;22;44069
+Svepomoci;1;b;23;45473
+Svepomoci;1;b;24;46960
+Svepomoci;1;b;25;48460
+Svepomoci;1;b;26;50084
+Svepomoci;1;b;27;51473
+Svepomoci;1;b;28;52960
+Svepomoci;1;b;29;54460
+Svepomoci;1;b;30;55685
+Svepomoci;1;b;31;56860
+Svepomoci;1;b;32;58109
+Svepomoci;1;b;33;59260
+Svepomoci;1;b;34;60496
+Svepomoci;1;b;35;61777
+Svepomoci;1;b;36;62934
+Svepomoci;1;b;37;64073
+Svepomoci;1;b;38;65260
+Svepomoci;1;b;39;66604
+Svepomoci;1;b;40;67663
+Svepomoci;1;b;41;68879
+Svepomoci;1;b;42;70081
+Svepomoci;1;b;43;71282
+Svepomoci;1;b;44;73693
+Svepomoci;1;b;45;76132
+Svepomoci;1;b;46;78460
+Svepomoci;1;b;47;80973
+Svepomoci;3;f;0;21900
+Svepomoci;3;f;1;23400
+Svepomoci;3;f;2;24900
+Svepomoci;3;f;3;26400
+Svepomoci;3;f;4;27900
+Svepomoci;3;f;5;29400
+Svepomoci;3;f;6;30900
+Svepomoci;3;f;7;32400
+Svepomoci;3;f;8;33900
+Svepomoci;3;f;9;35400
+Svepomoci;3;f;10;36900
+Svepomoci;3;f;11;38400
+Svepomoci;3;f;12;39900
+Svepomoci;3;f;13;41400
+Svepomoci;3;f;14;42900
+Svepomoci;3;f;15;44400
+Svepomoci;3;f;16;45900
+Svepomoci;3;f;17;47400
+Svepomoci;3;f;18;48900
+Svepomoci;3;f;19;50400
+Svepomoci;3;f;20;51900
+Svepomoci;3;f;21;53400
+Svepomoci;3;f;22;54900
+Svepomoci;3;f;23;56400
+Svepomoci;3;f;24;57900
+Svepomoci;3;f;25;59400
+Svepomoci;3;f;26;60900
+Svepomoci;3;f;27;62400
+Svepomoci;3;f;28;63900
+Svepomoci;3;f;29;65400
+Svepomoci;3;f;30;66900
+Svepomoci;3;f;31;68400
+Svepomoci;3;f;32;69900
+Svepomoci;3;f;33;71400
+Svepomoci;3;f;34;72900
+Svepomoci;3;f;35;74400
+Svepomoci;3;f;36;75900
+Svepomoci;3;f;37;77400
+Svepomoci;3;f;38;78900
+Svepomoci;3;b;0;23297
+Svepomoci;3;b;1;24763
+Svepomoci;3;b;2;26343
+Svepomoci;3;b;3;27748
+Svepomoci;3;b;4;29145
+Svepomoci;3;b;5;30727
+Svepomoci;3;b;6;32267
+Svepomoci;3;b;7;33884
+Svepomoci;3;b;8;35161
+Svepomoci;3;b;9;36749
+Svepomoci;3;b;10;38380
+Svepomoci;3;b;11;39766
+Svepomoci;3;b;12;41460
+Svepomoci;3;b;13;42743
+Svepomoci;3;b;14;44146
+Svepomoci;3;b;15;45722
+Svepomoci;3;b;16;47315
+Svepomoci;3;b;17;48766
+Svepomoci;3;b;18;50114
+Svepomoci;3;b;19;51732
+Svepomoci;3;b;20;53311
+Svepomoci;3;b;21;54912
+Svepomoci;3;b;22;56196
+Svepomoci;3;b;23;57789
+Svepomoci;3;b;24;59194
+Svepomoci;3;b;25;60716
+Svepomoci;3;b;26;62397
+Svepomoci;3;b;27;63666
+Svepomoci;3;b;28;65238
+Svepomoci;3;b;29;66752
+Svepomoci;3;b;30;68343
+Svepomoci;3;b;31;69662
+Svepomoci;3;b;32;71195
+Svepomoci;3;b;33;72866
+Svepomoci;3;b;34;74349
+Svepomoci;3;b;35;75850
+Svepomoci;3;b;36;77255
+Svepomoci;3;b;37;78645
+Svepomoci;3;b;38;80320
+Testovaci;1;f;0;14985
+Testovaci;1;f;1;16532
+Testovaci;1;f;2;17941
+Testovaci;1;f;3;19516
+Testovaci;1;f;4;21205
+Testovaci;1;f;5;22440
+Testovaci;1;f;6;23795
+Testovaci;1;f;7;24918
+Testovaci;1;f;8;26173
+Testovaci;1;f;9;27545
+Testovaci;1;f;10;28733
+Testovaci;1;f;11;30154
+Testovaci;1;f;12;31236
+Testovaci;1;f;13;32205
+Testovaci;1;f;14;33377
+Testovaci;1;f;15;35045
+Testovaci;1;f;16;35742
+Testovaci;1;f;17;36866
+Testovaci;1;f;18;38102
+Testovaci;1;f;19;39295
+Testovaci;1;f;20;40966
+Testovaci;1;f;21;42240
+Testovaci;1;f;22;43740
+Testovaci;1;f;23;45284
+Testovaci;1;f;24;46740
+Testovaci;1;f;25;48298
+Testovaci;1;f;26;49870
+Testovaci;1;f;27;51317
+Testovaci;1;f;28;52788
+Testovaci;1;f;29;54564
+Testovaci;1;f;30;55574
+Testovaci;1;f;31;56640
+Testovaci;1;f;32;57905
+Testovaci;1;f;33;59237
+Testovaci;1;f;34;60259
+Testovaci;1;f;35;61488
+Testovaci;1;f;36;62696
+Testovaci;1;f;37;63949
+Testovaci;1;f;38;65040
+Testovaci;1;f;39;66380
+Testovaci;1;f;40;67470
+Testovaci;1;f;41;68792
+Testovaci;1;f;42;69876
+Testovaci;1;f;43;71040
+Testovaci;1;f;44;73612
+Testovaci;1;f;45;75941
+Testovaci;1;f;46;78264
+Testovaci;1;f;47;80699
+Testovaci;1;b;0;16157
+Testovaci;1;b;1;17607
+Testovaci;1;b;2;19392
+Testovaci;1;b;3;20629
+Testovaci;1;b;4;22205
+Testovaci;1;b;5;23601
+Testovaci;1;b;6;24853
+Testovaci;1;b;7;26133
+Testovaci;1;b;8;27156
+Testovaci;1;b;9;29130
+Testovaci;1;b;10;30011
+Testovaci;1;b;11;31363
+Testovaci;1;b;12;32779
+Testovaci;1;b;13;33562
+Testovaci;1;b;14;34931
+Testovaci;1;b;15;35890
+Testovaci;1;b;16;37032
+Testovaci;1;b;17;38053
+Testovaci;1;b;18;39184
+Testovaci;1;b;19;40387
+Testovaci;1;b;20;41812
+Testovaci;1;b;21;43434
+Testovaci;1;b;22;45164
+Testovaci;1;b;23;46398
+Testovaci;1;b;24;47810
+Testovaci;1;b;25;49414
+Testovaci;1;b;26;51113
+Testovaci;1;b;27;52446
+Testovaci;1;b;28;53857
+Testovaci;1;b;29;55443
+Testovaci;1;b;30;56750
+Testovaci;1;b;31;57710
+Testovaci;1;b;32;59142
+Testovaci;1;b;33;60367
+Testovaci;1;b;34;61723
+Testovaci;1;b;35;63032
+Testovaci;1;b;36;64055
+Testovaci;1;b;37;65091
+Testovaci;1;b;38;66222
+Testovaci;1;b;39;67743
+Testovaci;1;b;40;68613
+Testovaci;1;b;41;69779
+Testovaci;1;b;42;70975
+Testovaci;1;b;43;72116
+Testovaci;1;b;44;74591
+Testovaci;1;b;45;77068
+Testovaci;1;b;46;79462
+Testovaci;1;b;47;81976
+U Bufetu;0;f;0;15673
+U Bufetu;0;f;1;17439
+U Bufetu;0;f;2;19329
+U Bufetu;0;f;3;21245
+U Bufetu;0;f;4;22850
+U Bufetu;0;f;5;24119
+U Bufetu;0;f;6;24636
+U Bufetu;0;f;7;25590
+U Bufetu;0;f;8;26578
+U Bufetu;0;f;9;27615
+U Bufetu;0;f;10;28604
+U Bufetu;0;f;11;29219
+U Bufetu;0;f;12;30422
+U Bufetu;0;f;13;31194
+U Bufetu;0;f;14;32067
+U Bufetu;0;f;15;33108
+U Bufetu;0;f;16;34244
+U Bufetu;0;f;17;35008
+U Bufetu;0;f;18;35528
+U Bufetu;0;f;19;36446
+U Bufetu;0;f;20;37310
+U Bufetu;0;f;21;39036
+U Bufetu;0;f;22;40884
+U Bufetu;0;f;23;42629
+U Bufetu;0;f;24;44438
+U Bufetu;0;f;25;46200
+U Bufetu;0;f;26;48339
+U Bufetu;0;f;27;49826
+U Bufetu;0;f;28;51950
+U Bufetu;0;f;29;53432
+U Bufetu;0;f;30;55352
+U Bufetu;0;f;31;56228
+U Bufetu;0;f;32;57195
+U Bufetu;0;f;33;58030
+U Bufetu;0;f;34;59036
+U Bufetu;0;f;35;59714
+U Bufetu;0;f;36;60890
+U Bufetu;0;f;37;61802
+U Bufetu;0;f;38;63009
+U Bufetu;0;f;39;64026
+U Bufetu;0;f;40;64529
+U Bufetu;0;f;41;65258
+U Bufetu;0;f;42;66188
+U Bufetu;0;f;43;66938
+U Bufetu;0;f;44;67812
+U Bufetu;0;f;45;68846
+U Bufetu;0;f;46;69664
+U Bufetu;0;f;47;71504
+U Bufetu;0;f;48;73375
+U Bufetu;0;f;49;75325
+U Bufetu;0;f;50;77249
+U Bufetu;0;f;51;78640
+U Bufetu;0;f;52;80402
+U Bufetu;0;f;53;82257
+U Bufetu;0;f;54;84032
+U Bufetu;0;b;0;15225
+U Bufetu;0;b;1;17020
+U Bufetu;0;b;2;18820
+U Bufetu;0;b;3;20625
+U Bufetu;0;b;4;22420
+U Bufetu;0;b;5;23321
+U Bufetu;0;b;6;24246
+U Bufetu;0;b;7;25130
+U Bufetu;0;b;8;26064
+U Bufetu;0;b;9;26953
+U Bufetu;0;b;10;27906
+U Bufetu;0;b;11;28864
+U Bufetu;0;b;12;29620
+U Bufetu;0;b;13;30570
+U Bufetu;0;b;14;31462
+U Bufetu;0;b;15;32345
+U Bufetu;0;b;16;33248
+U Bufetu;0;b;17;34125
+U Bufetu;0;b;18;35044
+U Bufetu;0;b;19;35995
+U Bufetu;0;b;20;36820
+U Bufetu;0;b;21;38707
+U Bufetu;0;b;22;40420
+U Bufetu;0;b;23;42230
+U Bufetu;0;b;24;44040
+U Bufetu;0;b;25;45838
+U Bufetu;0;b;26;47620
+U Bufetu;0;b;27;49420
+U Bufetu;0;b;28;51220
+U Bufetu;0;b;29;53037
+U Bufetu;0;b;30;54822
+U Bufetu;0;b;31;55743
+U Bufetu;0;b;32;56745
+U Bufetu;0;b;33;57531
+U Bufetu;0;b;34;58558
+U Bufetu;0;b;35;59320
+U Bufetu;0;b;36;60225
+U Bufetu;0;b;37;61120
+U Bufetu;0;b;38;62049
+U Bufetu;0;b;39;62920
+U Bufetu;0;b;40;63830
+U Bufetu;0;b;41;64732
+U Bufetu;0;b;42;65688
+U Bufetu;0;b;43;66665
+U Bufetu;0;b;44;67456
+U Bufetu;0;b;45;68325
+U Bufetu;0;b;46;69220
+U Bufetu;0;b;47;71038
+U Bufetu;0;b;48;72820
+U Bufetu;0;b;49;74651
+U Bufetu;0;b;50;76420
+U Bufetu;0;b;51;78226
+U Bufetu;0;b;52;80022
+U Bufetu;0;b;53;81837
+U Bufetu;0;b;54;83666
+U Petnika;0;f;0;14400
+U Petnika;0;f;1;16200
+U Petnika;0;f;2;18000
+U Petnika;0;f;3;19800
+U Petnika;0;f;4;21600
+U Petnika;0;f;5;22500
+U Petnika;0;f;6;23400
+U Petnika;0;f;7;24300
+U Petnika;0;f;8;25200
+U Petnika;0;f;9;26100
+U Petnika;0;f;10;27000
+U Petnika;0;f;11;27900
+U Petnika;0;f;12;28800
+U Petnika;0;f;13;29700
+U Petnika;0;f;14;30600
+U Petnika;0;f;15;31500
+U Petnika;0;f;16;32400
+U Petnika;0;f;17;33300
+U Petnika;0;f;18;34200
+U Petnika;0;f;19;35100
+U Petnika;0;f;20;36000
+U Petnika;0;f;21;37800
+U Petnika;0;f;22;39600
+U Petnika;0;f;23;41400
+U Petnika;0;f;24;43200
+U Petnika;0;f;25;45000
+U Petnika;0;f;26;46800
+U Petnika;0;f;27;48600
+U Petnika;0;f;28;50400
+U Petnika;0;f;29;52200
+U Petnika;0;f;30;54000
+U Petnika;0;f;31;54900
+U Petnika;0;f;32;55800
+U Petnika;0;f;33;56700
+U Petnika;0;f;34;57600
+U Petnika;0;f;35;58500
+U Petnika;0;f;36;59400
+U Petnika;0;f;37;60300
+U Petnika;0;f;38;61200
+U Petnika;0;f;39;62100
+U Petnika;0;f;40;63000
+U Petnika;0;f;41;63900
+U Petnika;0;f;42;64800
+U Petnika;0;f;43;65700
+U Petnika;0;f;44;66600
+U Petnika;0;f;45;67500
+U Petnika;0;f;46;68400
+U Petnika;0;f;47;70200
+U Petnika;0;f;48;72000
+U Petnika;0;f;49;73800
+U Petnika;0;f;50;75600
+U Petnika;0;f;51;77400
+U Petnika;0;f;52;79200
+U Petnika;0;f;53;81000
+U Petnika;0;f;54;82800
+U Petnika;0;b;0;16420
+U Petnika;0;b;1;18222
+U Petnika;0;b;2;20020
+U Petnika;0;b;3;21843
+U Petnika;0;b;4;23620
+U Petnika;0;b;5;24567
+U Petnika;0;b;6;25489
+U Petnika;0;b;7;26403
+U Petnika;0;b;8;27704
+U Petnika;0;b;9;28248
+U Petnika;0;b;10;29467
+U Petnika;0;b;11;30245
+U Petnika;0;b;12;30980
+U Petnika;0;b;13;31919
+U Petnika;0;b;14;32929
+U Petnika;0;b;15;33634
+U Petnika;0;b;16;34705
+U Petnika;0;b;17;35513
+U Petnika;0;b;18;36220
+U Petnika;0;b;19;37471
+U Petnika;0;b;20;38177
+U Petnika;0;b;21;40194
+U Petnika;0;b;22;41642
+U Petnika;0;b;23;43420
+U Petnika;0;b;24;45415
+U Petnika;0;b;25;47020
+U Petnika;0;b;26;48823
+U Petnika;0;b;27;50620
+U Petnika;0;b;28;52420
+U Petnika;0;b;29;54236
+U Petnika;0;b;30;56142
+U Petnika;0;b;31;57173
+U Petnika;0;b;32;58524
+U Petnika;0;b;33;58925
+U Petnika;0;b;34;60307
+U Petnika;0;b;35;60941
+U Petnika;0;b;36;61755
+U Petnika;0;b;37;62392
+U Petnika;0;b;38;63492
+U Petnika;0;b;39;64120
+U Petnika;0;b;40;65089
+U Petnika;0;b;41;65920
+U Petnika;0;b;42;66999
+U Petnika;0;b;43;68319
+U Petnika;0;b;44;68903
+U Petnika;0;b;45;69520
+U Petnika;0;b;46;70469
+U Petnika;0;b;47;72224
+U Petnika;0;b;48;74020
+U Petnika;0;b;49;75946
+U Petnika;0;b;50;77620
+U Petnika;0;b;51;79420
+U Petnika;0;b;52;81317
+U Petnika;0;b;53;83036
+U Petnika;0;b;54;85192
+U Zavrene skoly;0;f;0;15542
+U Zavrene skoly;0;f;1;17299
+U Zavrene skoly;0;f;2;19179
+U Zavrene skoly;0;f;3;21062
+U Zavrene skoly;0;f;4;22720
+U Zavrene skoly;0;f;5;23939
+U Zavrene skoly;0;f;6;24494
+U Zavrene skoly;0;f;7;25417
+U Zavrene skoly;0;f;8;26420
+U Zavrene skoly;0;f;9;27390
+U Zavrene skoly;0;f;10;28338
+U Zavrene skoly;0;f;11;29063
+U Zavrene skoly;0;f;12;30245
+U Zavrene skoly;0;f;13;31005
+U Zavrene skoly;0;f;14;31844
+U Zavrene skoly;0;f;15;32912
+U Zavrene skoly;0;f;16;33994
+U Zavrene skoly;0;f;17;34851
+U Zavrene skoly;0;f;18;35408
+U Zavrene skoly;0;f;19;36303
+U Zavrene skoly;0;f;20;37166
+U Zavrene skoly;0;f;21;38889
+U Zavrene skoly;0;f;22;40742
+U Zavrene skoly;0;f;23;42501
+U Zavrene skoly;0;f;24;44298
+U Zavrene skoly;0;f;25;46080
+U Zavrene skoly;0;f;26;48186
+U Zavrene skoly;0;f;27;49682
+U Zavrene skoly;0;f;28;51791
+U Zavrene skoly;0;f;29;53291
+U Zavrene skoly;0;f;30;55228
+U Zavrene skoly;0;f;31;56068
+U Zavrene skoly;0;f;32;57044
+U Zavrene skoly;0;f;33;57863
+U Zavrene skoly;0;f;34;58886
+U Zavrene skoly;0;f;35;59580
+U Zavrene skoly;0;f;36;60676
+U Zavrene skoly;0;f;37;61563
+U Zavrene skoly;0;f;38;62774
+U Zavrene skoly;0;f;39;63782
+U Zavrene skoly;0;f;40;64332
+U Zavrene skoly;0;f;41;65117
+U Zavrene skoly;0;f;42;66016
+U Zavrene skoly;0;f;43;66800
+U Zavrene skoly;0;f;44;67698
+U Zavrene skoly;0;f;45;68710
+U Zavrene skoly;0;f;46;69507
+U Zavrene skoly;0;f;47;71371
+U Zavrene skoly;0;f;48;73213
+U Zavrene skoly;0;f;49;75147
+U Zavrene skoly;0;f;50;77062
+U Zavrene skoly;0;f;51;78515
+U Zavrene skoly;0;f;52;80284
+U Zavrene skoly;0;f;53;82126
+U Zavrene skoly;0;f;54;83880
+U Zavrene skoly;0;b;0;15348
+U Zavrene skoly;0;b;1;17147
+U Zavrene skoly;0;b;2;18940
+U Zavrene skoly;0;b;3;20760
+U Zavrene skoly;0;b;4;22540
+U Zavrene skoly;0;b;5;23448
+U Zavrene skoly;0;b;6;24376
+U Zavrene skoly;0;b;7;25253
+U Zavrene skoly;0;b;8;26180
+U Zavrene skoly;0;b;9;27132
+U Zavrene skoly;0;b;10;28121
+U Zavrene skoly;0;b;11;28980
+U Zavrene skoly;0;b;12;29771
+U Zavrene skoly;0;b;13;30767
+U Zavrene skoly;0;b;14;31635
+U Zavrene skoly;0;b;15;32471
+U Zavrene skoly;0;b;16;33385
+U Zavrene skoly;0;b;17;34278
+U Zavrene skoly;0;b;18;35140
+U Zavrene skoly;0;b;19;36116
+U Zavrene skoly;0;b;20;36977
+U Zavrene skoly;0;b;21;38878
+U Zavrene skoly;0;b;22;40557
+U Zavrene skoly;0;b;23;42340
+U Zavrene skoly;0;b;24;44179
+U Zavrene skoly;0;b;25;45940
+U Zavrene skoly;0;b;26;47740
+U Zavrene skoly;0;b;27;49557
+U Zavrene skoly;0;b;28;51340
+U Zavrene skoly;0;b;29;53169
+U Zavrene skoly;0;b;30;54940
+U Zavrene skoly;0;b;31;55908
+U Zavrene skoly;0;b;32;56982
+U Zavrene skoly;0;b;33;57669
+U Zavrene skoly;0;b;34;58758
+U Zavrene skoly;0;b;35;59497
+U Zavrene skoly;0;b;36;60342
+U Zavrene skoly;0;b;37;61318
+U Zavrene skoly;0;b;38;62282
+U Zavrene skoly;0;b;39;63040
+U Zavrene skoly;0;b;40;63944
+U Zavrene skoly;0;b;41;64848
+U Zavrene skoly;0;b;42;65829
+U Zavrene skoly;0;b;43;66876
+U Zavrene skoly;0;b;44;67620
+U Zavrene skoly;0;b;45;68441
+U Zavrene skoly;0;b;46;69342
+U Zavrene skoly;0;b;47;71152
+U Zavrene skoly;0;b;48;72940
+U Zavrene skoly;0;b;49;74797
+U Zavrene skoly;0;b;50;76540
+U Zavrene skoly;0;b;51;78357
+U Zavrene skoly;0;b;52;80140
+U Zavrene skoly;0;b;53;81953
+U Zavrene skoly;0;b;54;83825
+U Zavrene skoly;1;f;0;15512
+U Zavrene skoly;1;f;1;17074
+U Zavrene skoly;1;f;2;18436
+U Zavrene skoly;1;f;3;19996
+U Zavrene skoly;1;f;4;21785
+U Zavrene skoly;1;f;5;22947
+U Zavrene skoly;1;f;6;24344
+U Zavrene skoly;1;f;7;25418
+U Zavrene skoly;1;f;8;26622
+U Zavrene skoly;1;f;9;28128
+U Zavrene skoly;1;f;10;29538
+U Zavrene skoly;1;f;11;30919
+U Zavrene skoly;1;f;12;31880
+U Zavrene skoly;1;f;13;32788
+U Zavrene skoly;1;f;14;33894
+U Zavrene skoly;1;f;15;35813
+U Zavrene skoly;1;f;16;36368
+U Zavrene skoly;1;f;17;37444
+U Zavrene skoly;1;f;18;38644
+U Zavrene skoly;1;f;19;39786
+U Zavrene skoly;1;f;20;41550
+U Zavrene skoly;1;f;21;42765
+U Zavrene skoly;1;f;22;44252
+U Zavrene skoly;1;f;23;45763
+U Zavrene skoly;1;f;24;47269
+U Zavrene skoly;1;f;25;48764
+U Zavrene skoly;1;f;26;50371
+U Zavrene skoly;1;f;27;51805
+U Zavrene skoly;1;f;28;53330
+U Zavrene skoly;1;f;29;55271
+U Zavrene skoly;1;f;30;56306
+U Zavrene skoly;1;f;31;57353
+U Zavrene skoly;1;f;32;58610
+U Zavrene skoly;1;f;33;59974
+U Zavrene skoly;1;f;34;60852
+U Zavrene skoly;1;f;35;62063
+U Zavrene skoly;1;f;36;63408
+U Zavrene skoly;1;f;37;64531
+U Zavrene skoly;1;f;38;65666
+U Zavrene skoly;1;f;39;66952
+U Zavrene skoly;1;f;40;68077
+U Zavrene skoly;1;f;41;69388
+U Zavrene skoly;1;f;42;70418
+U Zavrene skoly;1;f;43;71538
+U Zavrene skoly;1;f;44;74222
+U Zavrene skoly;1;f;45;76485
+U Zavrene skoly;1;f;46;78769
+U Zavrene skoly;1;f;47;81163
+U Zavrene skoly;1;b;0;15590
+U Zavrene skoly;1;b;1;17108
+U Zavrene skoly;1;b;2;18779
+U Zavrene skoly;1;b;3;20110
+U Zavrene skoly;1;b;4;21695
+U Zavrene skoly;1;b;5;23079
+U Zavrene skoly;1;b;6;24319
+U Zavrene skoly;1;b;7;25512
+U Zavrene skoly;1;b;8;26690
+U Zavrene skoly;1;b;9;28378
+U Zavrene skoly;1;b;10;29319
+U Zavrene skoly;1;b;11;30551
+U Zavrene skoly;1;b;12;31968
+U Zavrene skoly;1;b;13;33028
+U Zavrene skoly;1;b;14;34222
+U Zavrene skoly;1;b;15;35238
+U Zavrene skoly;1;b;16;36472
+U Zavrene skoly;1;b;17;37533
+U Zavrene skoly;1;b;18;38703
+U Zavrene skoly;1;b;19;39923
+U Zavrene skoly;1;b;20;41395
+U Zavrene skoly;1;b;21;42963
+U Zavrene skoly;1;b;22;44583
+U Zavrene skoly;1;b;23;45900
+U Zavrene skoly;1;b;24;47345
+U Zavrene skoly;1;b;25;48867
+U Zavrene skoly;1;b;26;50543
+U Zavrene skoly;1;b;27;51945
+U Zavrene skoly;1;b;28;53344
+U Zavrene skoly;1;b;29;54884
+U Zavrene skoly;1;b;30;56099
+U Zavrene skoly;1;b;31;57243
+U Zavrene skoly;1;b;32;58554
+U Zavrene skoly;1;b;33;59740
+U Zavrene skoly;1;b;34;60964
+U Zavrene skoly;1;b;35;62312
+U Zavrene skoly;1;b;36;63372
+U Zavrene skoly;1;b;37;64577
+U Zavrene skoly;1;b;38;65725
+U Zavrene skoly;1;b;39;67088
+U Zavrene skoly;1;b;40;68056
+U Zavrene skoly;1;b;41;69300
+U Zavrene skoly;1;b;42;70480
+U Zavrene skoly;1;b;43;71647
+U Zavrene skoly;1;b;44;74144
+U Zavrene skoly;1;b;45;76597
+U Zavrene skoly;1;b;46;78938
+U Zavrene skoly;1;b;47;81390
+V Karantene;1;f;0;16277
+V Karantene;1;f;1;17769
+V Karantene;1;f;2;19223
+V Karantene;1;f;3;20789
+V Karantene;1;f;4;22845
+V Karantene;1;f;5;23822
+V Karantene;1;f;6;25151
+V Karantene;1;f;7;26235
+V Karantene;1;f;8;27467
+V Karantene;1;f;9;29111
+V Karantene;1;f;10;30502
+V Karantene;1;f;11;31912
+V Karantene;1;f;12;32610
+V Karantene;1;f;13;33599
+V Karantene;1;f;14;34698
+V Karantene;1;f;15;36755
+V Karantene;1;f;16;37218
+V Karantene;1;f;17;38281
+V Karantene;1;f;18;39394
+V Karantene;1;f;19;40582
+V Karantene;1;f;20;42520
+V Karantene;1;f;21;43570
+V Karantene;1;f;22;45110
+V Karantene;1;f;23;46569
+V Karantene;1;f;24;47980
+V Karantene;1;f;25;49535
+V Karantene;1;f;26;51090
+V Karantene;1;f;27;52648
+V Karantene;1;f;28;54210
+V Karantene;1;f;29;56358
+V Karantene;1;f;30;57237
+V Karantene;1;f;31;58110
+V Karantene;1;f;32;59533
+V Karantene;1;f;33;60872
+V Karantene;1;f;34;61684
+V Karantene;1;f;35;62972
+V Karantene;1;f;36;64233
+V Karantene;1;f;37;65428
+V Karantene;1;f;38;66544
+V Karantene;1;f;39;67809
+V Karantene;1;f;40;69001
+V Karantene;1;f;41;70145
+V Karantene;1;f;42;71256
+V Karantene;1;f;43;72280
+V Karantene;1;f;44;75233
+V Karantene;1;f;45;77471
+V Karantene;1;f;46;79488
+V Karantene;1;f;47;82070
+V Karantene;1;b;0;14786
+V Karantene;1;b;1;16281
+V Karantene;1;b;2;17803
+V Karantene;1;b;3;19257
+V Karantene;1;b;4;20796
+V Karantene;1;b;5;22280
+V Karantene;1;b;6;23470
+V Karantene;1;b;7;24684
+V Karantene;1;b;8;25910
+V Karantene;1;b;9;27133
+V Karantene;1;b;10;28289
+V Karantene;1;b;11;29470
+V Karantene;1;b;12;30860
+V Karantene;1;b;13;31888
+V Karantene;1;b;14;33125
+V Karantene;1;b;15;34311
+V Karantene;1;b;16;35519
+V Karantene;1;b;17;36707
+V Karantene;1;b;18;37870
+V Karantene;1;b;19;39070
+V Karantene;1;b;20;40602
+V Karantene;1;b;21;42076
+V Karantene;1;b;22;43615
+V Karantene;1;b;23;45081
+V Karantene;1;b;24;46570
+V Karantene;1;b;25;48094
+V Karantene;1;b;26;49607
+V Karantene;1;b;27;51081
+V Karantene;1;b;28;52587
+V Karantene;1;b;29;54074
+V Karantene;1;b;30;55275
+V Karantene;1;b;31;56472
+V Karantene;1;b;32;57693
+V Karantene;1;b;33;58877
+V Karantene;1;b;34;60087
+V Karantene;1;b;35;61297
+V Karantene;1;b;36;62503
+V Karantene;1;b;37;63686
+V Karantene;1;b;38;64875
+V Karantene;1;b;39;66113
+V Karantene;1;b;40;67270
+V Karantene;1;b;41;68488
+V Karantene;1;b;42;69680
+V Karantene;1;b;43;70870
+V Karantene;1;b;44;73286
+V Karantene;1;b;45;75675
+V Karantene;1;b;46;78110
+V Karantene;1;b;47;80507
+Vitkov;2;f;0;17100
+Vitkov;2;f;1;19500
+Vitkov;2;f;2;21900
+Vitkov;2;f;3;23100
+Vitkov;2;f;4;24300
+Vitkov;2;f;5;25500
+Vitkov;2;f;6;26700
+Vitkov;2;f;7;27900
+Vitkov;2;f;8;29100
+Vitkov;2;f;9;30300
+Vitkov;2;f;10;31500
+Vitkov;2;f;11;32700
+Vitkov;2;f;12;33900
+Vitkov;2;f;13;35100
+Vitkov;2;f;14;37500
+Vitkov;2;f;15;39900
+Vitkov;2;f;16;42300
+Vitkov;2;f;17;44700
+Vitkov;2;f;18;47100
+Vitkov;2;f;19;49500
+Vitkov;2;f;20;51900
+Vitkov;2;f;21;54300
+Vitkov;2;f;22;56700
+Vitkov;2;f;23;57900
+Vitkov;2;f;24;59100
+Vitkov;2;f;25;60300
+Vitkov;2;f;26;61500
+Vitkov;2;f;27;62700
+Vitkov;2;f;28;63900
+Vitkov;2;f;29;65100
+Vitkov;2;f;30;66300
+Vitkov;2;f;31;67500
+Vitkov;2;f;32;68700
+Vitkov;2;f;33;69900
+Vitkov;2;f;34;71100
+Vitkov;2;f;35;72300
+Vitkov;2;f;36;73500
+Vitkov;2;f;37;74700
+Vitkov;2;f;38;77100
+Vitkov;2;f;39;79500
+Vitkov;2;f;40;81900
+Vitkov;2;b;0;19345
+Vitkov;2;b;1;21625
+Vitkov;2;b;2;24092
+Vitkov;2;b;3;25080
+Vitkov;2;b;4;26351
+Vitkov;2;b;5;27606
+Vitkov;2;b;6;28758
+Vitkov;2;b;7;30137
+Vitkov;2;b;8;31296
+Vitkov;2;b;9;32495
+Vitkov;2;b;10;33480
+Vitkov;2;b;11;34851
+Vitkov;2;b;12;36120
+Vitkov;2;b;13;37210
+Vitkov;2;b;14;39628
+Vitkov;2;b;15;42038
+Vitkov;2;b;16;44411
+Vitkov;2;b;17;46837
+Vitkov;2;b;18;49125
+Vitkov;2;b;19;51661
+Vitkov;2;b;20;53880
+Vitkov;2;b;21;56456
+Vitkov;2;b;22;58900
+Vitkov;2;b;23;59972
+Vitkov;2;b;24;61191
+Vitkov;2;b;25;62398
+Vitkov;2;b;26;63611
+Vitkov;2;b;27;64680
+Vitkov;2;b;28;66145
+Vitkov;2;b;29;67281
+Vitkov;2;b;30;68357
+Vitkov;2;b;31;69615
+Vitkov;2;b;32;70925
+Vitkov;2;b;33;71895
+Vitkov;2;b;34;73272
+Vitkov;2;b;35;74466
+Vitkov;2;b;36;75702
+Vitkov;2;b;37;76795
+Vitkov;2;b;38;79275
+Vitkov;2;b;39;81607
+Vitkov;2;b;40;83880
+Za Filtrem;1;f;0;14775
+Za Filtrem;1;f;1;16325
+Za Filtrem;1;f;2;17771
+Za Filtrem;1;f;3;19303
+Za Filtrem;1;f;4;20909
+Za Filtrem;1;f;5;22288
+Za Filtrem;1;f;6;23593
+Za Filtrem;1;f;7;24702
+Za Filtrem;1;f;8;25929
+Za Filtrem;1;f;9;27256
+Za Filtrem;1;f;10;28517
+Za Filtrem;1;f;11;29749
+Za Filtrem;1;f;12;30933
+Za Filtrem;1;f;13;32042
+Za Filtrem;1;f;14;33060
+Za Filtrem;1;f;15;34614
+Za Filtrem;1;f;16;35652
+Za Filtrem;1;f;17;36722
+Za Filtrem;1;f;18;38003
+Za Filtrem;1;f;19;39098
+Za Filtrem;1;f;20;40687
+Za Filtrem;1;f;21;42117
+Za Filtrem;1;f;22;43622
+Za Filtrem;1;f;23;45073
+Za Filtrem;1;f;24;46567
+Za Filtrem;1;f;25;48084
+Za Filtrem;1;f;26;49636
+Za Filtrem;1;f;27;51117
+Za Filtrem;1;f;28;52660
+Za Filtrem;1;f;29;54282
+Za Filtrem;1;f;30;55339
+Za Filtrem;1;f;31;56465
+Za Filtrem;1;f;32;57689
+Za Filtrem;1;f;33;59002
+Za Filtrem;1;f;34;60084
+Za Filtrem;1;f;35;61291
+Za Filtrem;1;f;36;62499
+Za Filtrem;1;f;37;63733
+Za Filtrem;1;f;38;64893
+Za Filtrem;1;f;39;66122
+Za Filtrem;1;f;40;67311
+Za Filtrem;1;f;41;68535
+Za Filtrem;1;f;42;69685
+Za Filtrem;1;f;43;70869
+Za Filtrem;1;f;44;73500
+Za Filtrem;1;f;45;75734
+Za Filtrem;1;f;46;78089
+Za Filtrem;1;f;47;80505
+Za Filtrem;1;b;0;16373
+Za Filtrem;1;b;1;17796
+Za Filtrem;1;b;2;19618
+Za Filtrem;1;b;3;20819
+Za Filtrem;1;b;4;22412
+Za Filtrem;1;b;5;23793
+Za Filtrem;1;b;6;25039
+Za Filtrem;1;b;7;26325
+Za Filtrem;1;b;8;27350
+Za Filtrem;1;b;9;29361
+Za Filtrem;1;b;10;30204
+Za Filtrem;1;b;11;31558
+Za Filtrem;1;b;12;33002
+Za Filtrem;1;b;13;33746
+Za Filtrem;1;b;14;35159
+Za Filtrem;1;b;15;36083
+Za Filtrem;1;b;16;37232
+Za Filtrem;1;b;17;38206
+Za Filtrem;1;b;18;39373
+Za Filtrem;1;b;19;40566
+Za Filtrem;1;b;20;41990
+Za Filtrem;1;b;21;43601
+Za Filtrem;1;b;22;45402
+Za Filtrem;1;b;23;46578
+Za Filtrem;1;b;24;47996
+Za Filtrem;1;b;25;49631
+Za Filtrem;1;b;26;51337
+Za Filtrem;1;b;27;52640
+Za Filtrem;1;b;28;54062
+Za Filtrem;1;b;29;55685
+Za Filtrem;1;b;30;56992
+Za Filtrem;1;b;31;57920
+Za Filtrem;1;b;32;59424
+Za Filtrem;1;b;33;60584
+Za Filtrem;1;b;34;61907
+Za Filtrem;1;b;35;63382
+Za Filtrem;1;b;36;64306
+Za Filtrem;1;b;37;65354
+Za Filtrem;1;b;38;66397
+Za Filtrem;1;b;39;68000
+Za Filtrem;1;b;40;68804
+Za Filtrem;1;b;41;69985
+Za Filtrem;1;b;42;71160
+Za Filtrem;1;b;43;72292
+Za Filtrem;1;b;44;74778
+Za Filtrem;1;b;45;77260
+Za Filtrem;1;b;46;79657
+Za Filtrem;1;b;47;82198
